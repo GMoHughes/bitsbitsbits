@@ -2,9 +2,7 @@
 xmlns:w="urn:schemas-microsoft-com:office:word"
 xmlns:m="http://schemas.microsoft.com/office/2004/12/omml"
 xmlns="http://www.w3.org/TR/REC-html40">
-
-
-<body lang=EN-GB style='tab-interval:36.0pt;word-wrap:break-word'>
+<body>
 
 <div class=WordSection1>
 
@@ -502,17 +500,6 @@ name, nationality, date of birth, passport number (even if not travelling with
 child)<b><o:p></o:p></b></p>
 
 </div>
-
-</body>
-
-</html>
-<html xmlns:o="urn:schemas-microsoft-com:office:office"
-xmlns:w="urn:schemas-microsoft-com:office:word"
-xmlns:m="http://schemas.microsoft.com/office/2004/12/omml"
-xmlns="http://www.w3.org/TR/REC-html40">
-
-
-<body lang=EN-GB style='tab-interval:36.0pt;word-wrap:break-word'>
 
 <div class=WordSection1>
 
