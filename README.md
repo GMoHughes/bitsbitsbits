@@ -7,6 +7,9 @@ xmlns="http://www.w3.org/TR/REC-html40">
 
 <div class=WordSection1>
 
+  <p> Application URL </p>
+  <a>https://apply.visas-immigration.service.gov.uk/has-international-ukrainian-passport</a>
+<br>
 <p class=MsoNormal><b>EVERYONE travelling (including Children) need to complete
 their own VISA application. If you are a family of 5 - you will need to
 complete this 5 times!<br>
