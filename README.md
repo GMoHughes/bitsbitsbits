@@ -4,8 +4,6 @@ xmlns:m="http://schemas.microsoft.com/office/2004/12/omml"
 xmlns="http://www.w3.org/TR/REC-html40">
 
 
-<body lang=EN-GB style='tab-interval:36.0pt;word-wrap:break-word'>
-
 <div class=WordSection1>
 
 <p class=MsoNormal><b>EVERYONE travelling (including Children) need to complete
