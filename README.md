@@ -9,7 +9,8 @@ xmlns="http://www.w3.org/TR/REC-html40">
   <h2> SCROLL DOWN FOR UKRAINIAN VERSION</h4>
 
   <h3> Application URL </h3>
-  <a>https://apply.visas-immigration.service.gov.uk/has-international-ukrainian-passport</a>
+  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal;background:#F8F9FA'><span
+  lang=UK style='font-family:"Times New Roman",serif;color:#202124'>https://apply.visas-immigration.service.gov.uk/has-international-ukrainian-passport</span></p>
   <br>
   <br>
 
