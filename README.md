@@ -515,228 +515,716 @@ child)<b><o:p></o:p></b></p>
   <h2> Ukrainian Version</h2>
 
 <h3> URL-адреса програми</h3>
-<div class=WordSection1>
+  <div>
 
-<p class=MsoNormal style='margin-bottom:0cm;line-height:normal;'><span
-style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;font:7.0pt "Times New Roman"'>URL-адреса
-програми</span></p>
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
+lang=UK style='font-size:12.0pt;mso-fareast-font-family:"Times New Roman";
+mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-ansi-language:
+UK;mso-fareast-language:RU'>URL-адреса програми<o:p></o:p></span></p>
 
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
+lang=UK style='font-size:12.0pt;mso-fareast-font-family:"Times New Roman";
+mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-ansi-language:
+UK;mso-fareast-language:RU'><o:p>&nbsp;</o:p></span></p>
 
-<p class=MsoNormal style='margin-bottom:0cm;line-height:normal;'><span
-style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;font:7.0pt "Times New Roman"'>https://apply.visas-immigration.service.gov.uk/has-international-ukrainian-passport</span></p>
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
+lang=UK style='font-size:12.0pt;mso-fareast-font-family:"Times New Roman";
+mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-ansi-language:
+UK;mso-fareast-language:RU'>https://apply.visas-immigration.service.gov.uk/has-international-ukrainian-passport<o:p></o:p></span></p>
 
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
+lang=UK style='font-size:12.0pt;mso-fareast-font-family:"Times New Roman";
+mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-ansi-language:
+UK;mso-fareast-language:RU'><o:p>&nbsp;</o:p></span></p>
 
-<p class=MsoNormal style='margin-bottom:0cm;line-height:normal;'><span
-style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;font:7.0pt "Times New Roman"'>КОЖНОМУ, хто
-подорожує (включаючи дітей), необхідно заповнити власну заяву на візу. Якщо ви
-сім’я з 5 осіб – вам потрібно буде виконати це 5 разів!</span></p>
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
+lang=UK style='font-size:12.0pt;mso-fareast-font-family:"Times New Roman";
+mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-ansi-language:
+UK;mso-fareast-language:RU'>КОЖНОМУ, хто подорожує (включаючи дітей), необхідно
+заповнити власну заяву на візу. Якщо ви сім’я з 5 осіб – вам потрібно буде
+виконати це 5 разів!<o:p></o:p></span></p>
 
-<p class=MsoNormal style='margin-bottom:0cm;line-height:normal;'><span
-style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;font:7.0pt "Times New Roman"'>&nbsp;</span></p>
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
+lang=UK style='font-size:12.0pt;mso-fareast-font-family:"Times New Roman";
+mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-ansi-language:
+UK;mso-fareast-language:RU'><o:p>&nbsp;</o:p></span></p>
 
-<p class=MsoNormal style='margin-bottom:0cm;line-height:normal;'><span
-style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;font:7.0pt "Times New Roman"'>ДОМА ДЛЯ
-УКРАЇНИ Візові питання станом на 20/03/2022:</span></p>
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
+lang=UK style='font-size:12.0pt;mso-fareast-font-family:"Times New Roman";
+mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-ansi-language:
+UK;mso-fareast-language:RU'>ДОМА ДЛЯ УКРАЇНИ Візові питання станом на
+20/03/2022:<o:p></o:p></span></p>
 
-<p class=MsoNormal style='margin-bottom:0cm;line-height:normal;'><span
-style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;font:7.0pt "Times New Roman"'>&nbsp;</span></p>
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
+lang=UK style='font-size:12.0pt;mso-fareast-font-family:"Times New Roman";
+mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-ansi-language:
+UK;mso-fareast-language:RU'><o:p>&nbsp;</o:p></span></p>
 
-<p class=MsoNormal style='margin-bottom:0cm;line-height:normal;'><span
-style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;font:7.0pt "Times New Roman"'>1. Чи є у вас
-дійсний закордонний паспорт України?</span></p>
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
+lang=UK style='font-size:12.0pt;mso-fareast-font-family:"Times New Roman";
+mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-ansi-language:
+UK;mso-fareast-language:RU'><span style='mso-spacerun:yes'> </span><o:p></o:p></span></p>
 
-<h5 style='margin-top:26.25pt;margin-right:0cm;margin-bottom:0cm;margin-left:
-0cm;background:white'><span lang=UK style='font-size:11.0pt;color:#202124;
-font-weight:normal'>2. На яку категорію ви претендуєте (</span><span
-lang=EN-US style='font-size:11.0pt;color:#0B0C0C;font-weight:normal'>Ukraine
-Sponsorship Scheme (Homes for Ukraine)</span><span lang=UK style='font-size:
-11.0pt;color:#202124;font-weight:normal'>?</span></h5>
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
+lang=UK style='font-size:12.0pt;mso-fareast-font-family:"Times New Roman";
+mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-ansi-language:
+UK;mso-fareast-language:RU'><o:p>&nbsp;</o:p></span></p>
 
-<p class=MsoNormal style='margin-bottom:0cm;line-height:normal;'><span
-style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;font:7.0pt "Times New Roman"'>3. Який у вас
-спонсор? - Організація або індивідуальний</span></p>
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
+lang=UK style='font-size:12.0pt;mso-fareast-font-family:"Times New Roman";
+mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-ansi-language:
+UK;mso-fareast-language:RU'>1. Чи є у вас дійсний закордонний паспорт України?<o:p></o:p></span></p>
 
-<p class=MsoNormal style='margin-bottom:0cm;line-height:normal;'><span
-style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;font:7.0pt "Times New Roman"'>4. Ви жили в
-Україні 31 грудня 2021 року?</span></p>
+<h3 style='margin-top:26.25pt;margin-right:0cm;margin-bottom:0cm;margin-left:
+0cm'><span lang=UK style='font-size:12.0pt;font-family:"Calibri",sans-serif;
+mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:
+minor-latin;mso-ansi-language:UK;font-weight:normal;mso-bidi-font-weight:bold'>2.
+На яку категорію ви претендуєте (</span><span lang=EN-US style='font-size:12.0pt;
+font-family:"Calibri",sans-serif;mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:
+minor-latin;mso-bidi-theme-font:minor-latin;mso-ansi-language:EN-US;font-weight:
+normal;mso-bidi-font-weight:bold'>Ukraine Sponsorship Scheme (Homes for
+Ukraine)</span><span lang=UK style='font-size:12.0pt;font-family:"Calibri",sans-serif;
+mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:
+minor-latin;mso-ansi-language:UK;font-weight:normal;mso-bidi-font-weight:bold'>?</span><span
+lang=EN-US style='font-size:12.0pt;font-family:"Calibri",sans-serif;mso-ascii-theme-font:
+minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:minor-latin;
+mso-ansi-language:EN-US;font-weight:normal;mso-bidi-font-weight:bold'><o:p></o:p></span></h3>
 
-<p class=MsoNormal style='margin-bottom:0cm;line-height:normal;'><span
-style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;font:7.0pt "Times New Roman"'>5. Чи має ваш
-спонсор дозвіл на перебування у Великобританії більше 6 місяців?</span></p>
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
+lang=UK style='font-size:12.0pt;mso-fareast-font-family:"Times New Roman";
+mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-ansi-language:
+UK;mso-fareast-language:RU'><o:p>&nbsp;</o:p></span></p>
 
-<p class=MsoNormal style='margin-bottom:0cm;line-height:normal;'><span
-style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;font:7.0pt "Times New Roman"'>6. Що
-найкраще описує вашого спонсора? (Громадянин Великобританії / Поселений у
-Великобританії з постійним статусом / Біженець з правами захисту у
-Великобританії / Особа з попередньо встановленим статусом / Жодне з
-перерахованого вище)</span></p>
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
+lang=UK style='font-size:12.0pt;mso-fareast-font-family:"Times New Roman";
+mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-ansi-language:
+UK;mso-fareast-language:RU'>3. Який у вас спонсор? - Організація або
+індивідуальний<o:p></o:p></span></p>
 
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
+lang=UK style='font-size:12.0pt;mso-fareast-font-family:"Times New Roman";
+mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-ansi-language:
+UK;mso-fareast-language:RU'><o:p>&nbsp;</o:p></span></p>
 
-<p class=MsoNormal style='margin-bottom:0cm;line-height:normal;'><span
-style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;font:7.0pt "Times New Roman"'>7. Ім'я
-спонсора (включно з по батькові) та прізвище</span></p>
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
+lang=UK style='font-size:12.0pt;mso-fareast-font-family:"Times New Roman";
+mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-ansi-language:
+UK;mso-fareast-language:RU'>4. Ви жили в Україні 31 грудня 2021 року?<o:p></o:p></span></p>
 
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
+lang=UK style='font-size:12.0pt;mso-fareast-font-family:"Times New Roman";
+mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-ansi-language:
+UK;mso-fareast-language:RU'><o:p>&nbsp;</o:p></span></p>
 
-<p class=MsoNormal style='margin-bottom:0cm;line-height:normal;'><span
-style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;font:7.0pt "Times New Roman"'>8. Чи є хоча
-б один член вашої родини українцем?</span></p>
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
+lang=UK style='font-size:12.0pt;mso-fareast-font-family:"Times New Roman";
+mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-ansi-language:
+UK;mso-fareast-language:RU'>5. Чи має ваш спонсор дозвіл на перебування у
+Великобританії більше 6 місяців?<o:p></o:p></span></p>
 
-<p class=MsoNormal style='margin-bottom:0cm;line-height:normal;'><span
-style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;font:7.0pt "Times New Roman"'>9. Яка країна
-національності вашого спонсора?</span></p>
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
+lang=UK style='font-size:12.0pt;mso-fareast-font-family:"Times New Roman";
+mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-ansi-language:
+UK;mso-fareast-language:RU'><o:p>&nbsp;</o:p></span></p>
 
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
+lang=UK style='font-size:12.0pt;mso-fareast-font-family:"Times New Roman";
+mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-ansi-language:
+UK;mso-fareast-language:RU'>6. Що найкраще описує вашого спонсора? (Громадянин
+Великобританії / Поселений у Великобританії з постійним статусом / Біженець з правами
+захисту у Великобританії / Особа з попередньо встановленим статусом / Жодне з
+перерахованого вище)<o:p></o:p></span></p>
 
-<p class=MsoNormal style='margin-bottom:0cm;line-height:normal;'><span
-style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;font:7.0pt "Times New Roman"'>10. Яка дата
-народження вашого спонсора?</span></p>
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
+lang=UK style='font-size:12.0pt;mso-fareast-font-family:"Times New Roman";
+mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-ansi-language:
+UK;mso-fareast-language:RU'><o:p>&nbsp;</o:p></span></p>
 
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
+lang=UK style='font-size:12.0pt;mso-fareast-font-family:"Times New Roman";
+mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-ansi-language:
+UK;mso-fareast-language:RU'>7. Ім'я спонсора (включно з по батькові) та
+прізвище<o:p></o:p></span></p>
 
-<p class=MsoNormal style='margin-bottom:0cm;line-height:normal;'><span
-style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;font:7.0pt "Times New Roman"'>11. Який номер
-паспорта вашого спонсора?</span></p>
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
+lang=UK style='font-size:12.0pt;mso-fareast-font-family:"Times New Roman";
+mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-ansi-language:
+UK;mso-fareast-language:RU'><o:p>&nbsp;</o:p></span></p>
 
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
+lang=UK style='font-size:12.0pt;mso-fareast-font-family:"Times New Roman";
+mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-ansi-language:
+UK;mso-fareast-language:RU'>8. Чи є хоча б один член вашої родини українцем?<o:p></o:p></span></p>
 
-<p class=MsoNormal style='margin-bottom:0cm;line-height:normal;'><span
-style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;font:7.0pt "Times New Roman"'>12. Яка
-країна видачі паспорта вашого спонсора?</span></p>
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
+lang=UK style='font-size:12.0pt;mso-fareast-font-family:"Times New Roman";
+mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-ansi-language:
+UK;mso-fareast-language:RU'><o:p>&nbsp;</o:p></span></p>
 
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
+lang=UK style='font-size:12.0pt;mso-fareast-font-family:"Times New Roman";
+mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-ansi-language:
+UK;mso-fareast-language:RU'>9. Яка країна національності вашого спонсора?<o:p></o:p></span></p>
 
-<p class=MsoNormal style='margin-bottom:0cm;line-height:normal;'><span
-style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;font:7.0pt "Times New Roman"'>13. Видача та
-термін дії паспорта спонсора</span></p>
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
+lang=UK style='font-size:12.0pt;mso-fareast-font-family:"Times New Roman";
+mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-ansi-language:
+UK;mso-fareast-language:RU'><o:p>&nbsp;</o:p></span></p>
 
-<p class=MsoNormal style='margin-bottom:0cm;line-height:normal;'><span
-style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;font:7.0pt "Times New Roman"'>14. Номер
-телефону спонсора</span></p>
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
+lang=UK style='font-size:12.0pt;mso-fareast-font-family:"Times New Roman";
+mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-ansi-language:
+UK;mso-fareast-language:RU'>10. Яка дата народження вашого спонсора?<o:p></o:p></span></p>
 
-<p class=MsoNormal style='margin-bottom:0cm;line-height:normal;'><span
-style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;font:7.0pt "Times New Roman"'>15. Адреса
-електронної пошти спонсора</span></p>
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
+lang=UK style='font-size:12.0pt;mso-fareast-font-family:"Times New Roman";
+mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-ansi-language:
+UK;mso-fareast-language:RU'><o:p>&nbsp;</o:p></span></p>
 
-<p class=MsoNormal style='margin-bottom:0cm;line-height:normal;'><span
-style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;font:7.0pt "Times New Roman"'>16. Чи був
-твій спонсор коли-небудь відомий під якимось іншим іменем (тобто до шлюбу)
-введить імена</span></p>
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
+lang=UK style='font-size:12.0pt;mso-fareast-font-family:"Times New Roman";
+mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-ansi-language:
+UK;mso-fareast-language:RU'>11. Який номер паспорта вашого спонсора?<o:p></o:p></span></p>
 
-<p class=MsoNormal style='margin-bottom:0cm;line-height:normal;'><span
-style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;font:7.0pt "Times New Roman"'>17. Чи адреса
-ваших спонсорів у Великобританії? Введіть поштовий індекс, номер будинку, назву
-вулиці, місцевий орган влади, країну в межах Великобританії</span></p>
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
+lang=UK style='font-size:12.0pt;mso-fareast-font-family:"Times New Roman";
+mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-ansi-language:
+UK;mso-fareast-language:RU'><o:p>&nbsp;</o:p></span></p>
 
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
+lang=UK style='font-size:12.0pt;mso-fareast-font-family:"Times New Roman";
+mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-ansi-language:
+UK;mso-fareast-language:RU'>12. Яка країна видачі паспорта вашого спонсора?<o:p></o:p></span></p>
 
-<p class=MsoNormal style='margin-bottom:0cm;line-height:normal;'><span
-style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;font:7.0pt "Times New Roman"'>18. Коли вони
-почали жити за цією адресою (мм/рр)?</span></p>
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
+lang=UK style='font-size:12.0pt;mso-fareast-font-family:"Times New Roman";
+mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-ansi-language:
+UK;mso-fareast-language:RU'><o:p>&nbsp;</o:p></span></p>
 
-<p class=MsoNormal style='margin-bottom:0cm;line-height:normal;'><span
-style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;font:7.0pt "Times New Roman"'>19. Яку стать
-у вашого спонсора вказано в паспорті?</span></p>
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
+lang=UK style='font-size:12.0pt;mso-fareast-font-family:"Times New Roman";
+mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-ansi-language:
+UK;mso-fareast-language:RU'>13. Видача та термін дії паспорта спонсора<o:p></o:p></span></p>
 
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
+lang=UK style='font-size:12.0pt;mso-fareast-font-family:"Times New Roman";
+mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-ansi-language:
+UK;mso-fareast-language:RU'><o:p>&nbsp;</o:p></span></p>
 
-<p class=MsoNormal style='margin-bottom:0cm;line-height:normal;'><span
-style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;font:7.0pt "Times New Roman"'>20. Який його
-стан відносин? (одружений/самотні/розлучений…)</span></p>
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
+lang=UK style='font-size:12.0pt;mso-fareast-font-family:"Times New Roman";
+mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-ansi-language:
+UK;mso-fareast-language:RU'>14. Номер телефону спонсора<o:p></o:p></span></p>
 
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
+lang=UK style='font-size:12.0pt;mso-fareast-font-family:"Times New Roman";
+mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-ansi-language:
+UK;mso-fareast-language:RU'><o:p>&nbsp;</o:p></span></p>
 
-<p class=MsoNormal style='margin-bottom:0cm;line-height:normal;'><span
-style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;font:7.0pt "Times New Roman"'>21. Чи мав
-ваш спонсор коли-небудь інше громадянство чи національність? (Якщо так, введіть
-деталі)</span></p>
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
+lang=UK style='font-size:12.0pt;mso-fareast-font-family:"Times New Roman";
+mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-ansi-language:
+UK;mso-fareast-language:RU'>15. Адреса електронної пошти спонсора<o:p></o:p></span></p>
 
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
+lang=UK style='font-size:12.0pt;mso-fareast-font-family:"Times New Roman";
+mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-ansi-language:
+UK;mso-fareast-language:RU'><o:p>&nbsp;</o:p></span></p>
 
-<p class=MsoNormal style='margin-bottom:0cm;line-height:normal;'><span
-style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;font:7.0pt "Times New Roman"'>22. Чи будете
-Ви залишатися за адресою проживання Вашого спонсора?</span></p>
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
+lang=UK style='font-size:12.0pt;mso-fareast-font-family:"Times New Roman";
+mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-ansi-language:
+UK;mso-fareast-language:RU'>16. Чи був твій спонсор коли-небудь відомий під
+якимось іншим іменем (тобто до шлюбу) <span class=SpellE>введить</span> імена<o:p></o:p></span></p>
 
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
+lang=UK style='font-size:12.0pt;mso-fareast-font-family:"Times New Roman";
+mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-ansi-language:
+UK;mso-fareast-language:RU'><o:p>&nbsp;</o:p></span></p>
 
-<p class=MsoNormal style='margin-bottom:0cm;line-height:normal;'><span
-style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;font:7.0pt "Times New Roman"'>23. Чи будуть
-інші люди, які проживатимуть за цією адресою, де ви будете зупинятися?
-(Розкажіть нам про людей старше 18 років (у тому числі – ім’я/прізвище/дата
-народження/громадянство/номер паспорта) ПОВТОРНИЙ процес для всіх осіб віком
-від 18 років у будинку спонсора</span></p>
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
+lang=UK style='font-size:12.0pt;mso-fareast-font-family:"Times New Roman";
+mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-ansi-language:
+UK;mso-fareast-language:RU'>17. Чи адреса ваших спонсорів у Великобританії?
+Введіть поштовий індекс, номер будинку, назву вулиці, місцевий орган влади,
+країну в межах Великобританії<o:p></o:p></span></p>
 
-<p class=MsoNormal style='margin-bottom:0cm;line-height:normal;'><span
-style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;font:7.0pt "Times New Roman"'>24. Яка ваша
-електронна адреса?</span></p>
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
+lang=UK style='font-size:12.0pt;mso-fareast-font-family:"Times New Roman";
+mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-ansi-language:
+UK;mso-fareast-language:RU'><o:p>&nbsp;</o:p></span></p>
 
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
+lang=UK style='font-size:12.0pt;mso-fareast-font-family:"Times New Roman";
+mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-ansi-language:
+UK;mso-fareast-language:RU'>18. Коли вони почали жити за цією <span
+class=SpellE>адресою</span> (мм/<span class=SpellE>рр</span>)?<o:p></o:p></span></p>
 
-<p class=MsoNormal style='margin-bottom:0cm;line-height:normal;'><span
-style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;font:7.0pt "Times New Roman"'>25. Який ваш
-номер телефону (чи буде використовуватися за межами Великобританії, у
-Великобританії, чи обидва?)</span></p>
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
+lang=UK style='font-size:12.0pt;mso-fareast-font-family:"Times New Roman";
+mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-ansi-language:
+UK;mso-fareast-language:RU'><o:p>&nbsp;</o:p></span></p>
 
-<p style=''><span class=y2iqfc><span lang=UK  style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;font:7.0pt "Times New Roman"''>
-26. Чи можна зв'язатися з вами за цим номером? Виберіть тип, наприклад, дзвінки та SMS/лише SMS/без дзвінків або SMS/лише дзвінки)</span></span></p>
-<p
-style=''><span class=y2iqfc><span lang=UK  style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;font:7.0pt "Times New Roman"'>27. Якщо ви надасте більше однієї електронної пошти або номеру телефону, вас запитають, на який з вами краще зв’язатися</span></span></p><p
-style=''><span class=y2iqfc><span lang=UK  style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;font:7.0pt "Times New Roman"'>28. Яку адресу електронної пошти ми маємо використовувати, щоб повідомляти вам про: будь-які питання, які ми маємо / рішення / після того, як ви були схвалені та поки ви перебуваєте у Великобританії</span></span></p><p
-style=''><span class=y2iqfc><span lang=UK  style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;font:7.0pt "Times New Roman"'>29. Яке Ваше  ім'я та прізвище (включаючи по батькові)?</span></span></p><p
-style=''><span class=y2iqfc><span lang=UK  style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;font:7.0pt "Times New Roman"'>30. Ви коли-небудь були відомі під якимось іншим ім'ям (введіть)?</span></span></p><p
-style=''><span class=y2iqfc><span lang=UK  style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;font:7.0pt "Times New Roman"'>31. Яка стать у вас в паспорті?</span></span></p><p
-style=''><span class=y2iqfc><span lang=UK  style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;font:7.0pt "Times New Roman"'>32. Який у вас статус стосунків (одружений/неодружений/вдова/розлучений тощо) це навіть запитується для дитини</span></span></p><p
-style=''><span class=y2iqfc><span lang=UK  style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;font:7.0pt "Times New Roman"'>33. Адреса (використовуйте англійський алфавіт, поштовий індекс, місто/село/район/ вулиця/номр будинку/квартира) </span></span></p><p
-style=''><span class=y2iqfc><span lang=UK  style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;font:7.0pt "Times New Roman"'>34. У вас є паспорт? (Це має бути закордонний паспорт. НЕ вказуйте дані внутрішнього паспорта.)</span></span></p><p
-style=''><span class=y2iqfc><span lang=UK  style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;font:7.0pt "Times New Roman"'>35. Номер паспорта</span></span></p><p
-style=''><span class=y2iqfc><span lang=UK  style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;font:7.0pt "Times New Roman"'>36. Орган, який видав паспорт (4 цифри в закордонному паспорті) </span></span></p><p
-style=''><span class=y2iqfc><span lang=UK  style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;font:7.0pt "Times New Roman"'>37. Дані про дату  видачі та дата закінчення дії паспорта</span></span></p><p
-style=''><span class=y2iqfc><span lang=UK  style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;font:7.0pt "Times New Roman"'>38. Країна національності</span></span></p><p
-style=''><span class=y2iqfc><span lang=UK  style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;font:7.0pt "Times New Roman"'>39. Країна народження</span></span></p><p
-style=''><span class=y2iqfc><span lang=UK  style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;font:7.0pt "Times New Roman"'>40. Місце народження</span></span></p><p
-style=''><span class=y2iqfc><span lang=UK  style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;font:7.0pt "Times New Roman"'>41. Дата народження</span></span></p><p
-style=''><span class=y2iqfc><span lang=UK  style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;font:7.0pt "Times New Roman"'>42. Чи мали  ви іншу національність або громадянство (надайте деталі)?</span></span></p><p
-style=''><span class=y2iqfc><span lang=UK  style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;font:7.0pt "Times New Roman"'>43. Чи є у вас члени сім'ї, які звертаються (подаються на візу) з вами?</span></span></p><p
-style=''><span class=y2iqfc><span lang=UK  style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;font:7.0pt "Times New Roman"'>44. Яке їхнє відношення до спонсора (цікаво, чи це помилка і чи має бути стосунки із заявником? Це порожнє текстове поле, тому ви можете пояснити тут) </span></span></p><p
-style=''><span class=y2iqfc><span lang=UK  style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;font:7.0pt "Times New Roman"'>45. Ім'я особи, яка подорожує з вами</span></span></p><p
-style=''><span class=y2iqfc><span lang=UK  style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;font:7.0pt "Times New Roman"'>46. ​​Прізвище особи, яка подорожує з вами</span></span></p><p
-style=''><span class=y2iqfc><span lang=UK  style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;font:7.0pt "Times New Roman"'>47. Дата народження особи, яка подорожує з вами</span></span></p><p
-style=''><span class=y2iqfc><span lang=UK  style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;font:7.0pt "Times New Roman"'>48. Вони подорожують з вами до Великобританії?</span></span></p><p
-style=''><span class=y2iqfc><span lang=UK  style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;font:7.0pt "Times New Roman"'>49. Якої вони національності?</span></span></p><p
-style=''><span class=y2iqfc><span lang=UK  style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;font:7.0pt "Times New Roman"'>50. Який у них номер паспорта?</span></span></p><p
-style=''><span class=y2iqfc><span lang=UK  style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;font:7.0pt "Times New Roman"'>51. Чи є у вас інші члени сім'ї, яких ви хочете додати (повторіть вище кроки 42-48)?</span></span></p><p
-style=''><span class=y2iqfc><span lang=UK  style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;font:7.0pt "Times New Roman"'>52. Дата, коли ви плануєте прибути до Великобританії (якщо ви не знаєте, позначте дату цілі) – ви будете мати право в’їзду на протязі 90 днів з зазначеної дати </span></span></p><p
-style=''><span class=y2iqfc><span lang=UK  style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;font:7.0pt "Times New Roman"'>53. Підтвердьте, чи коли-небудь вам відмовляли у візі, відмовляли у в'їзді на кордоні, відмовляли в притулку, депортували тощо.</span></span></p><p
-style=''><span class=y2iqfc><span lang=UK  style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;font:7.0pt "Times New Roman"'>54. Підтвердьте, що ви не: нелегально в’їхали до Великобританії, перебували у Великобританії після закінчення терміну дії візи, порушили умови, тобто працювали у Великобританії без дозволу тощо.</span></span></p><p
-style=''><span class=y2iqfc><span lang=UK  style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;font:7.0pt "Times New Roman"'>55. Перевірка для (галочка якщо): засудження до кримінальної відповідальності, покарання за водіння/правопорушення, арешт або звинувачення в очікуванні суду, попередження, попередження чи догана, рішення цивільного суду проти вас тощо</span></span></p><p
-style=''><span class=y2iqfc><span lang=UK  style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;font:7.0pt "Times New Roman"'>56. Чи займалися ви коли-небудь оплачуваною чи неоплачуваною діяльністю від імені уряду, який не є британським урядом, який, як відомо, є небезпечним для національної безпеки Великобританії?</span></span></p><p
-style=''><span class=y2iqfc><span lang=UK  style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;font:7.0pt "Times New Roman"'>57. Чи займалися ви коли-небудь іншими видами діяльності, які можуть означати, що ви не є людиною з хорошим характером?</span></span></p><p
-style=''><span class=y2iqfc><span lang=UK  style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;font:7.0pt "Times New Roman"'>58. Чи є якась інша інформація про ваш характер чи поведінку, про яку ми повинні знати?</span></span></p><p
-style=''><span class=y2iqfc><span lang=UK  style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;font:7.0pt "Times New Roman"'>59. Чи працювали ви коли-небудь у: Збройних силах, уряді, розвідувальних службах, охоронних організаціях, включаючи поліцію та приватну охорону, ЗМІ, судовій системі?</span></span></p><p
-style=''><span class=y2iqfc><span lang=UK  style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;font:7.0pt "Times New Roman"'>60. Підтвердьте, що у вас є документи, що підтверджують особу, та «інші» документи, такі як: докази, що ви проживали в Україні до 01.01.2022 (рахунок за комунальні послуги), документ, що посвідчує особу вашого спонсора (також потрібне свідоцтво про народження, якщо ви подаєте заявку для дитини І лист від обох батьків про дозвіл подати заяву на отримання візи – навіть якщо ці батьки подорожують з дитиною)</span></span></p><p
-style=''><span class=y2iqfc><b><span lang=UK  style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;font:7.0pt "Times New Roman"'>а. Докази завантажуються через інший екран в кінці процесу</span></b><br>Зауважте, що це дозволить завантажувати файли лише у форматі <b>PDF (НЕ JPEG)</b></span></span></p><p
-style=''><span class=y2iqfc><span lang=UK  style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;font:7.0pt "Times New Roman"'>61. Підтвердьте, що ви розумієте умови, а саме: у вас будуть умови щодо вашої візи, і якщо ви перебуваєте в Великобританії без дозволу, вас можуть затримати, притягнути до кримінальної відповідальності, оштрафувати, ув’язнити, вилучити та заборонити повертатися, не зможете працювати, орендувати будинок, вимагати пільг, безкоштовний доступ до NHS, не може мати банківський рахунок, і DVLA не дозволить вам керувати автомобілем</span></span></p><p
-style=''><span class=y2iqfc><span lang=UK style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;font:7.0pt "Times New Roman"'>62. Підтвердьте, хто заповнив форму: заявник старше 18 років/заявник віком до 18 років/батьки чи законні опікуни/інший (при цьому ви погоджуєтесь на відмову від відповідальності, що стосується, наскільки вам відомо, вся інформація правильна, погоджуєтесь з умовами і спосіб використання наданих вами даних. І що ви розумієте, що вас можуть притягнути до відповідальності, якщо ви надали неправдиву інформацію</span></span></p><p
-style=''><span class=y2iqfc><span lang=UK style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;font:7.0pt "Times New Roman"'>а. Для «інший» вам потрібно буде відповісти, яку здатність ви підтримуєте, наприклад, члена сім’ї/турагента/іншого. При виборі іншого вам буде надано безкоштовне текстове поле, щоб пояснити причину заповнення. Ми відзначили, що це пов’язано з тим, що форми доступні лише англійською мовою, ненадійне з’єднання з Інтернетом в Україні тощо. Він також запитує ваше ім’я, адресу, електронну адресу та контактний номер.</span></span></p><p
-style=''><span class=y2iqfc><b><span lang=UK  style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;font:7.0pt "Times New Roman"'>63. ЗБЕРЕГТИ ТА ПРОДОВЖИТИ – НА ЦЕЙ МОМЕНТ ВИ ВЖЕ НЕ МОЖЕТЕ РЕДАГУВАТИ СВОЮ ВІДПОВІДЬ</span></b></span></p><p
-style=''><span class=y2iqfc><span lang=UK  style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;font:7.0pt "Times New Roman"'>До цього моменту ви можете повернутися «назад» і внести зміни</span></span></p>
-<p style=''><span class=y2iqfc><b><span lang=UK  style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;font:7.0pt "Times New Roman"'>ЕКРАН ПОДАНОЇ ЗАЯВКИ</span></b></span></p><p
-style=''><span class=y2iqfc><span lang=UK  style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;font:7.0pt "Times New Roman"'>Підтвердження електронною поштою згенеровано на вашу поштову скриньку</span></span></p><p
-style=''><span class=y2iqfc><span lang=UK  style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;font:7.0pt "Times New Roman"'>64. Завантажте контрольний список підтверджуючих документів; дає вам завантажити <b>PDF</b></span></span></p><p
-style=''><span class=y2iqfc><span lang=UK  style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;font:7.0pt "Times New Roman"'>65. Домовтеся про надання ваших документів; Перенесе вас на новий портал</span></span></p><p
-style=''><span class=y2iqfc><span lang=UK  style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;font:7.0pt "Times New Roman"'>66. Погодьтеся з новими умовами порталу</span></span></p><p
-style=''><span class=y2iqfc><span lang=UK  style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;font:7.0pt "Times New Roman"'>67. Підтвердьте свою особу (на цьому екрані попередньо заповнено вашу інформацію)</span></span></p><p
-style=''><span class=y2iqfc><span lang=UK  style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;font:7.0pt "Times New Roman"'>68. Виберіть найближчий візовий центр, він зазначає, що якщо у вас є біометричні дані, вам не потрібно відвідувати візовий центр, але ви не можете продовжувати, не вибравши його, тому просто виберіть найближчий, навіть якщо вам не потрібно відвідувати</span></span></p><p
-style=''><span class=y2iqfc><span lang=UK  style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;font:7.0pt "Times New Roman"'>69. Виберіть, як ви хочете продовжити: цифрове завантаження або забронюйте зустріч у Visa центрі</span></span></p><p
-style=''><span class=y2iqfc><span lang=UK  style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;font:7.0pt "Times New Roman"'>70. Далі буде екран перетягування/завантаження для завантаження всіх супровідних документів, знову ж таки, вони <b>ПОВИННІ БУТИ У форматі PDF</b>, інший формат не буде прийнято. Завантажте всі документи, перш ніж натиснути кнопку «Надіслати». Після натискання кнопки «Надіслати» ви не зможете повернутися назад і додати те, що ви забули. Тому, будь ласка, переконайтеся, <b>що ВСЕ завантажено</b>, перш ніж натиснути «Надіслати».</span></span></p><p
-style=''><span class=y2iqfc><span lang=UK  style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;font:7.0pt "Times New Roman"'>71. Радимо переконатися, що всі завантажені документи написані англійською мовою, а всі перекладені документи мають бути засвідчені. Чесно кажучи, я думаю, що це копія/вставка зі звичайної візової інструкції, і в ній немає визнання терміновості/мовного бар’єру та можливості доступу до засобів перекладу. Багато з них завантажили лише українською мовою. Варто зазначити, що у формі є безкоштовне текстове поле з проханням пояснити, чому ви не можете надати будь-які ключові документи. Тут я зауважив, що листи від батьків про згоду/комунальні платежі та свідоцтво про народження були українською лише через вищесказане.</span></span></p><p
-style=''><span class=y2iqfc><span lang=UK  style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;font:7.0pt "Times New Roman"'> </span></span></p><p
-style=''><span class=y2iqfc><b><span lang=UK  style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;font:7.0pt "Times New Roman"'>ЗАЯВКА ЗАВЕРШЕНА</span></b></span></p><p
-style=''><span class=y2iqfc><span lang=UK  style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;font:7.0pt "Times New Roman"'> </span></span></p><p
-style=''><span class=y2iqfc><b><span lang=UK  style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;font:7.0pt "Times New Roman"'>&nbsp;</span></b></span></p><p
-style=''><span class=y2iqfc><b><span lang=UK  style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;font:7.0pt "Times New Roman"'>ДОДАТКОВА ІНФОРМАЦІЯ ДЛЯ ДІТЕЙ</span></b></span></p><p
-style=''><span class=y2iqfc><span lang=UK  style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;font:7.0pt "Times New Roman"'>&nbsp;</span></span></p><p
-style=''><span class=y2iqfc><span lang=UK  style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;font:7.0pt "Times New Roman"'>Не застосовується до форми дитини: від 51 до 59 включно</span></span></p><p
-style=''><span class=y2iqfc><span lang=UK  style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;font:7.0pt "Times New Roman"'>Додатково в дитячої формиі:</span></span></p><p
-style=''><span class=y2iqfc><span lang=UK  style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;font:7.0pt "Times New Roman"'>&nbsp;</span></span></p><p
-style=''><span class=y2iqfc><span lang=UK  style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;font:7.0pt "Times New Roman"'>51. Чи будете ви жити з обома батьками у Великобританії?</span></span></p><p
-style=''><span class=y2iqfc><span lang=UK  style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;font:7.0pt "Times New Roman"'>52. Якщо ні, чи можете ви надати згоду обох батьків? (Якщо у вас лише один батько, чи можете ви надати їхню згоду?)</span></span></p><p
-style=''><span class=y2iqfc><span lang=UK  style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;font:7.0pt "Times New Roman"'>53. Прізвище матері, громадянство, дата народження, номер паспорта (навіть якщо не подорожує з дитиною)</span></span></p><p
-style=''><span class=y2iqfc><span lang=UK  style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;font:7.0pt "Times New Roman"'>54. Ім'я батька, національність, дата народження, номер паспорта (навіть якщо не подорожує з дитиною)</span></span></p>
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
+lang=UK style='font-size:12.0pt;mso-fareast-font-family:"Times New Roman";
+mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-ansi-language:
+UK;mso-fareast-language:RU'>19. Яку стать у вашого спонсора вказано в паспорті?<o:p></o:p></span></p>
 
-<p class=MsoNormal style='line-height:normal'><span lang=RU style='font-family:
-"Times New Roman",serif'>&nbsp;</span></p>
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
+lang=UK style='font-size:12.0pt;mso-fareast-font-family:"Times New Roman";
+mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-ansi-language:
+UK;mso-fareast-language:RU'><o:p>&nbsp;</o:p></span></p>
 
-</div>
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
+lang=UK style='font-size:12.0pt;mso-fareast-font-family:"Times New Roman";
+mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-ansi-language:
+UK;mso-fareast-language:RU'>20. Який його стан відносин?
+(одружений/самотні/розлучений…)<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
+lang=UK style='font-size:12.0pt;mso-fareast-font-family:"Times New Roman";
+mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-ansi-language:
+UK;mso-fareast-language:RU'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
+lang=UK style='font-size:12.0pt;mso-fareast-font-family:"Times New Roman";
+mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-ansi-language:
+UK;mso-fareast-language:RU'>21. Чи мав ваш спонсор коли-небудь інше
+громадянство чи національність? (Якщо так, введіть деталі)<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
+lang=UK style='font-size:12.0pt;mso-fareast-font-family:"Times New Roman";
+mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-ansi-language:
+UK;mso-fareast-language:RU'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
+lang=UK style='font-size:12.0pt;mso-fareast-font-family:"Times New Roman";
+mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-ansi-language:
+UK;mso-fareast-language:RU'>22. Чи будете Ви залишатися за адресою проживання
+Вашого спонсора?<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
+lang=UK style='font-size:12.0pt;mso-fareast-font-family:"Times New Roman";
+mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-ansi-language:
+UK;mso-fareast-language:RU'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
+lang=UK style='font-size:12.0pt;mso-fareast-font-family:"Times New Roman";
+mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-ansi-language:
+UK;mso-fareast-language:RU'>23. Чи будуть інші люди, які проживатимуть за цією
+адресою, де ви будете зупинятися? (Розкажіть нам про людей старше 18 років (у
+тому числі – ім’я/прізвище/дата народження/громадянство/номер паспорта)
+ПОВТОРНИЙ процес для всіх осіб віком від 18 років у будинку спонсора<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
+lang=UK style='font-size:12.0pt;mso-fareast-font-family:"Times New Roman";
+mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-ansi-language:
+UK;mso-fareast-language:RU'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
+lang=UK style='font-size:12.0pt;mso-fareast-font-family:"Times New Roman";
+mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-ansi-language:
+UK;mso-fareast-language:RU'>24. Яка ваша електронна адреса?<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
+lang=UK style='font-size:12.0pt;mso-fareast-font-family:"Times New Roman";
+mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-ansi-language:
+UK;mso-fareast-language:RU'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
+lang=UK style='font-size:12.0pt;mso-fareast-font-family:"Times New Roman";
+mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-ansi-language:
+UK;mso-fareast-language:RU'>25. Який ваш номер телефону (чи буде
+використовуватися за межами Великобританії, у Великобританії, чи обидва?)</span><span
+lang=RU style='font-size:12.0pt;mso-fareast-font-family:"Times New Roman";
+mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-fareast-language:
+RU'><o:p></o:p></span></p>
+
+<pre><span class=y2iqfc><span lang=UK style='font-size:12.0pt;font-family:"Calibri",sans-serif;
+mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:
+minor-latin;mso-ansi-language:UK'>26. Чи можна зв'язатися з вами за цим номером? Виберіть тип, наприклад, дзвінки та SMS/лише SMS/без дзвінків або SMS/лише дзвінки)<o:p></o:p></span></span></pre><pre><span
+class=y2iqfc><span lang=UK style='font-size:12.0pt;font-family:"Calibri",sans-serif;
+mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:
+minor-latin;mso-ansi-language:UK'><o:p>&nbsp;</o:p></span></span></pre><pre><span
+class=y2iqfc><span lang=UK style='font-size:12.0pt;font-family:"Calibri",sans-serif;
+mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:
+minor-latin;mso-ansi-language:UK'>27. Якщо ви надасте більше однієї електронної пошти або номеру телефону, вас запитають, на який з вами краще зв’язатися<o:p></o:p></span></span></pre><pre><span
+class=y2iqfc><span lang=UK style='font-size:12.0pt;font-family:"Calibri",sans-serif;
+mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:
+minor-latin;mso-ansi-language:UK'><o:p>&nbsp;</o:p></span></span></pre><pre><span
+class=y2iqfc><span lang=UK style='font-size:12.0pt;font-family:"Calibri",sans-serif;
+mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:
+minor-latin;mso-ansi-language:UK'>28. Яку адресу електронної пошти ми маємо використовувати, щоб повідомляти вам про: будь-які питання, які ми маємо / рішення / після того, як ви були схвалені та поки ви перебуваєте у Великобританії<o:p></o:p></span></span></pre><pre><span
+class=y2iqfc><span lang=UK style='font-size:12.0pt;font-family:"Calibri",sans-serif;
+mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:
+minor-latin;mso-ansi-language:UK'><o:p>&nbsp;</o:p></span></span></pre><pre><span
+class=y2iqfc><span lang=UK style='font-size:12.0pt;font-family:"Calibri",sans-serif;
+mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:
+minor-latin;mso-ansi-language:UK'>29. Яке Ваше <span style='mso-spacerun:yes'> </span>ім'я та прізвище (включаючи по батькові)?<o:p></o:p></span></span></pre><pre><span
+class=y2iqfc><span lang=UK style='font-size:12.0pt;font-family:"Calibri",sans-serif;
+mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:
+minor-latin;mso-ansi-language:UK'><o:p>&nbsp;</o:p></span></span></pre><pre><span
+class=y2iqfc><span lang=UK style='font-size:12.0pt;font-family:"Calibri",sans-serif;
+mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:
+minor-latin;mso-ansi-language:UK'>30. Ви коли-небудь були відомі під якимось іншим ім'ям (введіть)?<o:p></o:p></span></span></pre><pre><span
+class=y2iqfc><span lang=UK style='font-size:12.0pt;font-family:"Calibri",sans-serif;
+mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:
+minor-latin;mso-ansi-language:UK'><o:p>&nbsp;</o:p></span></span></pre><pre><span
+class=y2iqfc><span lang=UK style='font-size:12.0pt;font-family:"Calibri",sans-serif;
+mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:
+minor-latin;mso-ansi-language:UK'>31. Яка стать у вас в паспорті?<o:p></o:p></span></span></pre><pre><span
+class=y2iqfc><span lang=UK style='font-size:12.0pt;font-family:"Calibri",sans-serif;
+mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:
+minor-latin;mso-ansi-language:UK'><o:p>&nbsp;</o:p></span></span></pre><pre><span
+class=y2iqfc><span lang=UK style='font-size:12.0pt;font-family:"Calibri",sans-serif;
+mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:
+minor-latin;mso-ansi-language:UK'>32. Який у вас статус стосунків (одружений/неодружений/вдова/розлучений тощо) це навіть запитується для дитини<o:p></o:p></span></span></pre><pre><span
+class=y2iqfc><span lang=UK style='font-size:12.0pt;font-family:"Calibri",sans-serif;
+mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:
+minor-latin;mso-ansi-language:UK'><o:p>&nbsp;</o:p></span></span></pre><pre><span
+class=y2iqfc><span lang=UK style='font-size:12.0pt;font-family:"Calibri",sans-serif;
+mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:
+minor-latin;mso-ansi-language:UK'>33. Адреса (використовуйте англійський алфавіт, поштовий індекс, місто/село/район/ вулиця/<span
+class=SpellE>номр</span> будинку/квартира) <o:p></o:p></span></span></pre><pre><span
+class=y2iqfc><span lang=UK style='font-size:12.0pt;font-family:"Calibri",sans-serif;
+mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:
+minor-latin;mso-ansi-language:UK'><o:p>&nbsp;</o:p></span></span></pre><pre><span
+class=y2iqfc><span lang=UK style='font-size:12.0pt;font-family:"Calibri",sans-serif;
+mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:
+minor-latin;mso-ansi-language:UK'>34. У вас є паспорт? (Це має бути закордонний паспорт. НЕ вказуйте дані внутрішнього паспорта.)<o:p></o:p></span></span></pre><pre><span
+class=y2iqfc><span lang=UK style='font-size:12.0pt;font-family:"Calibri",sans-serif;
+mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:
+minor-latin;mso-ansi-language:UK'><o:p>&nbsp;</o:p></span></span></pre><pre><span
+class=y2iqfc><span lang=UK style='font-size:12.0pt;font-family:"Calibri",sans-serif;
+mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:
+minor-latin;mso-ansi-language:UK'>35. Номер паспорта<o:p></o:p></span></span></pre><pre><span
+class=y2iqfc><span lang=UK style='font-size:12.0pt;font-family:"Calibri",sans-serif;
+mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:
+minor-latin;mso-ansi-language:UK'><o:p>&nbsp;</o:p></span></span></pre><pre><span
+class=y2iqfc><span lang=UK style='font-size:12.0pt;font-family:"Calibri",sans-serif;
+mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:
+minor-latin;mso-ansi-language:UK'>36. Орган, який видав паспорт (4 цифри в закордонному паспорті) <o:p></o:p></span></span></pre><pre><span
+class=y2iqfc><span lang=UK style='font-size:12.0pt;font-family:"Calibri",sans-serif;
+mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:
+minor-latin;mso-ansi-language:UK'><o:p>&nbsp;</o:p></span></span></pre><pre><span
+class=y2iqfc><span lang=UK style='font-size:12.0pt;font-family:"Calibri",sans-serif;
+mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:
+minor-latin;mso-ansi-language:UK'>37. Дані про дату<span style='mso-spacerun:yes'>  </span>видачі та дата закінчення дії паспорта<o:p></o:p></span></span></pre><pre><span
+class=y2iqfc><span lang=UK style='font-size:12.0pt;font-family:"Calibri",sans-serif;
+mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:
+minor-latin;mso-ansi-language:UK'><o:p>&nbsp;</o:p></span></span></pre><pre><span
+class=y2iqfc><span lang=UK style='font-size:12.0pt;font-family:"Calibri",sans-serif;
+mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:
+minor-latin;mso-ansi-language:UK'>38. Країна національності<o:p></o:p></span></span></pre><pre><span
+class=y2iqfc><span lang=UK style='font-size:12.0pt;font-family:"Calibri",sans-serif;
+mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:
+minor-latin;mso-ansi-language:UK'><o:p>&nbsp;</o:p></span></span></pre><pre><span
+class=y2iqfc><span lang=UK style='font-size:12.0pt;font-family:"Calibri",sans-serif;
+mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:
+minor-latin;mso-ansi-language:UK'>39. Країна народження<o:p></o:p></span></span></pre><pre><span
+class=y2iqfc><span lang=UK style='font-size:12.0pt;font-family:"Calibri",sans-serif;
+mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:
+minor-latin;mso-ansi-language:UK'><o:p>&nbsp;</o:p></span></span></pre><pre><span
+class=y2iqfc><span lang=UK style='font-size:12.0pt;font-family:"Calibri",sans-serif;
+mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:
+minor-latin;mso-ansi-language:UK'>40. Місце народження<o:p></o:p></span></span></pre><pre><span
+class=y2iqfc><span lang=UK style='font-size:12.0pt;font-family:"Calibri",sans-serif;
+mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:
+minor-latin;mso-ansi-language:UK'><o:p>&nbsp;</o:p></span></span></pre><pre><span
+class=y2iqfc><span lang=UK style='font-size:12.0pt;font-family:"Calibri",sans-serif;
+mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:
+minor-latin;mso-ansi-language:UK'>41. Дата народження<o:p></o:p></span></span></pre><pre><span
+class=y2iqfc><span lang=UK style='font-size:12.0pt;font-family:"Calibri",sans-serif;
+mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:
+minor-latin;mso-ansi-language:UK'><o:p>&nbsp;</o:p></span></span></pre><pre><span
+class=y2iqfc><span lang=UK style='font-size:12.0pt;font-family:"Calibri",sans-serif;
+mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:
+minor-latin;mso-ansi-language:UK'>42. Чи мали<span style='mso-spacerun:yes'>  </span>ви іншу національність або громадянство (надайте деталі)?<o:p></o:p></span></span></pre><pre><span
+class=y2iqfc><span lang=UK style='font-size:12.0pt;font-family:"Calibri",sans-serif;
+mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:
+minor-latin;mso-ansi-language:UK'><o:p>&nbsp;</o:p></span></span></pre><pre><span
+class=y2iqfc><span lang=UK style='font-size:12.0pt;font-family:"Calibri",sans-serif;
+mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:
+minor-latin;mso-ansi-language:UK'>43. Чи є у вас члени сім'ї, які звертаються (подаються на візу) з вами?<o:p></o:p></span></span></pre><pre><span
+class=y2iqfc><span lang=UK style='font-size:12.0pt;font-family:"Calibri",sans-serif;
+mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:
+minor-latin;mso-ansi-language:UK'><o:p>&nbsp;</o:p></span></span></pre><pre><span
+class=y2iqfc><span lang=UK style='font-size:12.0pt;font-family:"Calibri",sans-serif;
+mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:
+minor-latin;mso-ansi-language:UK'>44. Яке їхнє відношення до спонсора (цікаво, чи це помилка і чи має бути стосунки із заявником? Це порожнє текстове поле, тому ви можете пояснити тут) <o:p></o:p></span></span></pre><pre><span
+class=y2iqfc><span lang=UK style='font-size:12.0pt;font-family:"Calibri",sans-serif;
+mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:
+minor-latin;mso-ansi-language:UK'><o:p>&nbsp;</o:p></span></span></pre><pre><span
+class=y2iqfc><span lang=UK style='font-size:12.0pt;font-family:"Calibri",sans-serif;
+mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:
+minor-latin;mso-ansi-language:UK'>45. Ім'я особи, яка подорожує з вами<o:p></o:p></span></span></pre><pre><span
+class=y2iqfc><span lang=UK style='font-size:12.0pt;font-family:"Calibri",sans-serif;
+mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:
+minor-latin;mso-ansi-language:UK'><o:p>&nbsp;</o:p></span></span></pre><pre><span
+class=y2iqfc><span lang=UK style='font-size:12.0pt;font-family:"Calibri",sans-serif;
+mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:
+minor-latin;mso-ansi-language:UK'>46. ​​Прізвище особи, яка подорожує з вами<o:p></o:p></span></span></pre><pre><span
+class=y2iqfc><span lang=UK style='font-size:12.0pt;font-family:"Calibri",sans-serif;
+mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:
+minor-latin;mso-ansi-language:UK'><o:p>&nbsp;</o:p></span></span></pre><pre><span
+class=y2iqfc><span lang=UK style='font-size:12.0pt;font-family:"Calibri",sans-serif;
+mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:
+minor-latin;mso-ansi-language:UK'>47. Дата народження особи, яка подорожує з вами<o:p></o:p></span></span></pre><pre><span
+class=y2iqfc><span lang=UK style='font-size:12.0pt;font-family:"Calibri",sans-serif;
+mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:
+minor-latin;mso-ansi-language:UK'><o:p>&nbsp;</o:p></span></span></pre><pre><span
+class=y2iqfc><span lang=UK style='font-size:12.0pt;font-family:"Calibri",sans-serif;
+mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:
+minor-latin;mso-ansi-language:UK'>48. Вони подорожують з вами до Великобританії?<o:p></o:p></span></span></pre><pre><span
+class=y2iqfc><span lang=UK style='font-size:12.0pt;font-family:"Calibri",sans-serif;
+mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:
+minor-latin;mso-ansi-language:UK'><o:p>&nbsp;</o:p></span></span></pre><pre><span
+class=y2iqfc><span lang=UK style='font-size:12.0pt;font-family:"Calibri",sans-serif;
+mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:
+minor-latin;mso-ansi-language:UK'>49. Якої вони національності?<o:p></o:p></span></span></pre><pre><span
+class=y2iqfc><span lang=UK style='font-size:12.0pt;font-family:"Calibri",sans-serif;
+mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:
+minor-latin;mso-ansi-language:UK'><o:p>&nbsp;</o:p></span></span></pre><pre><span
+class=y2iqfc><span lang=UK style='font-size:12.0pt;font-family:"Calibri",sans-serif;
+mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:
+minor-latin;mso-ansi-language:UK'>50. Який у них номер паспорта?<o:p></o:p></span></span></pre><pre><span
+class=y2iqfc><span lang=UK style='font-size:12.0pt;font-family:"Calibri",sans-serif;
+mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:
+minor-latin;mso-ansi-language:UK'><o:p>&nbsp;</o:p></span></span></pre><pre><span
+class=y2iqfc><span lang=UK style='font-size:12.0pt;font-family:"Calibri",sans-serif;
+mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:
+minor-latin;mso-ansi-language:UK'>51. Чи є у вас інші члени сім'ї, яких ви хочете додати (повторіть вище кроки 42-48)?<o:p></o:p></span></span></pre><pre><span
+class=y2iqfc><span lang=UK style='font-size:12.0pt;font-family:"Calibri",sans-serif;
+mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:
+minor-latin;mso-ansi-language:UK'><o:p>&nbsp;</o:p></span></span></pre><pre><span
+class=y2iqfc><span lang=UK style='font-size:12.0pt;font-family:"Calibri",sans-serif;
+mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:
+minor-latin;mso-ansi-language:UK'>52. Дата, коли ви плануєте прибути до Великобританії (якщо ви не знаєте, позначте дату цілі) – ви будете мати право в’їзду на протязі 90 днів з зазначеної дати <o:p></o:p></span></span></pre><pre><span
+class=y2iqfc><span lang=UK style='font-size:12.0pt;font-family:"Calibri",sans-serif;
+mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:
+minor-latin;mso-ansi-language:UK'><o:p>&nbsp;</o:p></span></span></pre><pre><span
+class=y2iqfc><span lang=UK style='font-size:12.0pt;font-family:"Calibri",sans-serif;
+mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:
+minor-latin;mso-ansi-language:UK'>53. Підтвердьте, чи коли-небудь вам відмовляли у візі, відмовляли у в'їзді на кордоні, відмовляли в притулку, депортували тощо.<o:p></o:p></span></span></pre><pre><span
+class=y2iqfc><span lang=UK style='font-size:12.0pt;font-family:"Calibri",sans-serif;
+mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:
+minor-latin;mso-ansi-language:UK'><o:p>&nbsp;</o:p></span></span></pre><pre><span
+class=y2iqfc><span lang=UK style='font-size:12.0pt;font-family:"Calibri",sans-serif;
+mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:
+minor-latin;mso-ansi-language:UK'>54. Підтвердьте, що ви не: нелегально в’їхали до Великобританії, перебували у Великобританії після закінчення терміну дії візи, порушили умови, тобто працювали у Великобританії без дозволу тощо.<o:p></o:p></span></span></pre><pre><span
+class=y2iqfc><span lang=UK style='font-size:12.0pt;font-family:"Calibri",sans-serif;
+mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:
+minor-latin;mso-ansi-language:UK'><o:p>&nbsp;</o:p></span></span></pre><pre><span
+class=y2iqfc><span lang=UK style='font-size:12.0pt;font-family:"Calibri",sans-serif;
+mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:
+minor-latin;mso-ansi-language:UK'>55. Перевірка для (галочка якщо): засудження до кримінальної відповідальності, покарання за водіння/правопорушення, арешт або звинувачення в очікуванні суду, попередження, попередження чи догана, рішення цивільного суду проти вас тощо</span></span><span
+lang=RU style='font-size:12.0pt;font-family:"Calibri",sans-serif;mso-ascii-theme-font:
+minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:minor-latin'><o:p></o:p></span></pre><pre><span
+class=y2iqfc><span lang=UK style='font-size:12.0pt;font-family:"Calibri",sans-serif;
+mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:
+minor-latin;mso-ansi-language:UK'><o:p>&nbsp;</o:p></span></span></pre><pre><span
+class=y2iqfc><span lang=UK style='font-size:12.0pt;font-family:"Calibri",sans-serif;
+mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:
+minor-latin;mso-ansi-language:UK'>56. Чи займалися ви коли-небудь оплачуваною чи неоплачуваною діяльністю від імені уряду, який не є британським урядом, який, як відомо, є небезпечним для національної безпеки Великобританії?<o:p></o:p></span></span></pre><pre><span
+class=y2iqfc><span lang=UK style='font-size:12.0pt;font-family:"Calibri",sans-serif;
+mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:
+minor-latin;mso-ansi-language:UK'><o:p>&nbsp;</o:p></span></span></pre><pre><span
+class=y2iqfc><span lang=UK style='font-size:12.0pt;font-family:"Calibri",sans-serif;
+mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:
+minor-latin;mso-ansi-language:UK'>57. Чи займалися ви коли-небудь іншими видами діяльності, які можуть означати, що ви не є людиною з хорошим характером?<o:p></o:p></span></span></pre><pre><span
+class=y2iqfc><span lang=UK style='font-size:12.0pt;font-family:"Calibri",sans-serif;
+mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:
+minor-latin;mso-ansi-language:UK'><o:p>&nbsp;</o:p></span></span></pre><pre><span
+class=y2iqfc><span lang=UK style='font-size:12.0pt;font-family:"Calibri",sans-serif;
+mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:
+minor-latin;mso-ansi-language:UK'>58. Чи є якась інша інформація про ваш характер чи поведінку, про яку ми повинні знати?<o:p></o:p></span></span></pre><pre><span
+class=y2iqfc><span lang=UK style='font-size:12.0pt;font-family:"Calibri",sans-serif;
+mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:
+minor-latin;mso-ansi-language:UK'><o:p>&nbsp;</o:p></span></span></pre><pre><span
+class=y2iqfc><span lang=UK style='font-size:12.0pt;font-family:"Calibri",sans-serif;
+mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:
+minor-latin;mso-ansi-language:UK'>59. Чи працювали ви коли-небудь у: Збройних силах, уряді, розвідувальних службах, охоронних організаціях, включаючи поліцію та приватну охорону, ЗМІ, судовій системі?<o:p></o:p></span></span></pre><pre><span
+class=y2iqfc><span lang=UK style='font-size:12.0pt;font-family:"Calibri",sans-serif;
+mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:
+minor-latin;mso-ansi-language:UK'><o:p>&nbsp;</o:p></span></span></pre><pre><span
+class=y2iqfc><span lang=UK style='font-size:12.0pt;font-family:"Calibri",sans-serif;
+mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:
+minor-latin;mso-ansi-language:UK'>60. Підтвердьте, що у вас є документи, що підтверджують особу, та «інші» документи, такі як: докази, що ви проживали в Україні до 01.01.2022 (рахунок за комунальні послуги), документ, що посвідчує особу вашого спонсора (також потрібне свідоцтво про народження, якщо ви подаєте заявку для дитини І лист від обох батьків про дозвіл подати заяву на отримання візи – навіть якщо ці батьки подорожують з дитиною)<o:p></o:p></span></span></pre><pre><span
+class=y2iqfc><span lang=UK style='font-size:12.0pt;font-family:"Calibri",sans-serif;
+mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:
+minor-latin;mso-ansi-language:UK'><o:p>&nbsp;</o:p></span></span></pre><pre><span
+class=y2iqfc><b style='mso-bidi-font-weight:normal'><span lang=UK
+style='font-size:12.0pt;font-family:"Calibri",sans-serif;mso-ascii-theme-font:
+minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:minor-latin;
+mso-ansi-language:UK'>а. Докази завантажуються через інший екран в кінці процесу</span></b></span><span
+class=y2iqfc><span lang=UK style='font-size:12.0pt;font-family:"Calibri",sans-serif;
+mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:
+minor-latin;mso-ansi-language:UK'><o:p></o:p></span></span></pre><pre><span
+class=y2iqfc><span lang=UK style='font-size:12.0pt;font-family:"Calibri",sans-serif;
+mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:
+minor-latin;mso-ansi-language:UK'>Зауважте, що це дозволить завантажувати файли лише у форматі <b
+style='mso-bidi-font-weight:normal'>PDF (НЕ JPEG)</b><o:p></o:p></span></span></pre><pre><span
+class=y2iqfc><span lang=UK style='font-size:12.0pt;font-family:"Calibri",sans-serif;
+mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:
+minor-latin;mso-ansi-language:UK'><o:p>&nbsp;</o:p></span></span></pre><pre><span
+class=y2iqfc><span lang=UK style='font-size:12.0pt;font-family:"Calibri",sans-serif;
+mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:
+minor-latin;mso-ansi-language:UK'>61. Підтвердьте, що ви розумієте умови, а саме: у вас будуть умови щодо вашої візи, і якщо ви перебуваєте в Великобританії без дозволу, вас можуть затримати, притягнути до кримінальної відповідальності, оштрафувати, ув’язнити, вилучити та заборонити повертатися, не зможете працювати, орендувати будинок, вимагати пільг, безкоштовний доступ до NHS, не може мати банківський рахунок, і DVLA не дозволить вам керувати автомобілем<o:p></o:p></span></span></pre><pre><span
+class=y2iqfc><span lang=UK style='font-size:12.0pt;font-family:"Calibri",sans-serif;
+mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:
+minor-latin;mso-ansi-language:UK'><o:p>&nbsp;</o:p></span></span></pre><pre><span
+class=y2iqfc><span lang=UK style='font-size:12.0pt;font-family:"Calibri",sans-serif;
+mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:
+minor-latin;mso-ansi-language:UK'>62. Підтвердьте, хто заповнив форму: заявник старше 18 років/заявник віком до 18 років/батьки чи законні опікуни/інший (при цьому ви погоджуєтесь на відмову від відповідальності, що стосується, наскільки вам відомо, вся інформація правильна, погоджуєтесь з умовами і спосіб використання наданих вами даних. І що ви розумієте, що вас можуть притягнути до відповідальності, якщо ви надали неправдиву інформацію<o:p></o:p></span></span></pre><pre><span
+class=y2iqfc><span lang=UK style='font-size:12.0pt;font-family:"Calibri",sans-serif;
+mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:
+minor-latin;mso-ansi-language:UK'><o:p>&nbsp;</o:p></span></span></pre><pre><span
+class=y2iqfc><span lang=UK style='font-size:12.0pt;font-family:"Calibri",sans-serif;
+mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:
+minor-latin;mso-ansi-language:UK'>а. Для «інший» вам потрібно буде відповісти, яку здатність ви підтримуєте, наприклад, члена сім’ї/<span
+class=SpellE>турагента</span>/іншого. При виборі іншого вам буде надано безкоштовне текстове поле, щоб пояснити причину заповнення. Ми відзначили, що це пов’язано з тим, що форми доступні лише англійською мовою, ненадійне з’єднання з Інтернетом в Україні тощо. Він також запитує ваше ім’я, адресу, електронну адресу та контактний номер.<o:p></o:p></span></span></pre><pre><span
+class=y2iqfc><span lang=UK style='font-size:12.0pt;font-family:"Calibri",sans-serif;
+mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:
+minor-latin;mso-ansi-language:UK'><o:p>&nbsp;</o:p></span></span></pre><pre><span
+class=y2iqfc><b style='mso-bidi-font-weight:normal'><span lang=UK
+style='font-size:12.0pt;font-family:"Calibri",sans-serif;mso-ascii-theme-font:
+minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:minor-latin;
+mso-ansi-language:UK'>63. ЗБЕРЕГТИ ТА ПРОДОВЖИТИ – НА ЦЕЙ МОМЕНТ ВИ ВЖЕ НЕ МОЖЕТЕ РЕДАГУВАТИ СВОЮ ВІДПОВІДЬ<o:p></o:p></span></b></span></pre><pre><span
+class=y2iqfc><span lang=UK style='font-size:12.0pt;font-family:"Calibri",sans-serif;
+mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:
+minor-latin;mso-ansi-language:UK'>До цього моменту ви можете повернутися «назад» і внести зміни</span></span><span
+lang=RU style='font-size:12.0pt;font-family:"Calibri",sans-serif;mso-ascii-theme-font:
+minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:minor-latin'><o:p></o:p></span></pre>
+
+<p class=MsoNormal style='line-height:normal'><span lang=EN-US
+style='font-size:12.0pt;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
+mso-ansi-language:EN-US'><o:p>&nbsp;</o:p></span></p>
+
+<pre><span class=y2iqfc><b style='mso-bidi-font-weight:normal'><span lang=UK
+style='font-size:12.0pt;font-family:"Calibri",sans-serif;mso-ascii-theme-font:
+minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:minor-latin;
+mso-ansi-language:UK'>ЕКРАН ПОДАНОЇ ЗАЯВКИ<o:p></o:p></span></b></span></pre><pre><span
+class=y2iqfc><span lang=UK style='font-size:12.0pt;font-family:"Calibri",sans-serif;
+mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:
+minor-latin;mso-ansi-language:UK'>Підтвердження електронною поштою згенеровано на вашу поштову скриньку<o:p></o:p></span></span></pre><pre><span
+class=y2iqfc><span lang=UK style='font-size:12.0pt;font-family:"Calibri",sans-serif;
+mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:
+minor-latin;mso-ansi-language:UK'><o:p>&nbsp;</o:p></span></span></pre><pre><span
+class=y2iqfc><span lang=UK style='font-size:12.0pt;font-family:"Calibri",sans-serif;
+mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:
+minor-latin;mso-ansi-language:UK'><o:p>&nbsp;</o:p></span></span></pre><pre><span
+class=y2iqfc><span lang=UK style='font-size:12.0pt;font-family:"Calibri",sans-serif;
+mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:
+minor-latin;mso-ansi-language:UK'>64. Завантажте контрольний список підтверджуючих документів; дає вам завантажити <b
+style='mso-bidi-font-weight:normal'>PDF<o:p></o:p></b></span></span></pre><pre><span
+class=y2iqfc><span lang=UK style='font-size:12.0pt;font-family:"Calibri",sans-serif;
+mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:
+minor-latin;mso-ansi-language:UK'><o:p>&nbsp;</o:p></span></span></pre><pre><span
+class=y2iqfc><span lang=UK style='font-size:12.0pt;font-family:"Calibri",sans-serif;
+mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:
+minor-latin;mso-ansi-language:UK'>65. Домовтеся про надання ваших документів; Перенесе вас на новий портал<o:p></o:p></span></span></pre><pre><span
+class=y2iqfc><span lang=UK style='font-size:12.0pt;font-family:"Calibri",sans-serif;
+mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:
+minor-latin;mso-ansi-language:UK'><o:p>&nbsp;</o:p></span></span></pre><pre><span
+class=y2iqfc><span lang=UK style='font-size:12.0pt;font-family:"Calibri",sans-serif;
+mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:
+minor-latin;mso-ansi-language:UK'>66. Погодьтеся з новими умовами порталу<o:p></o:p></span></span></pre><pre><span
+class=y2iqfc><span lang=UK style='font-size:12.0pt;font-family:"Calibri",sans-serif;
+mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:
+minor-latin;mso-ansi-language:UK'><o:p>&nbsp;</o:p></span></span></pre><pre><span
+class=y2iqfc><span lang=UK style='font-size:12.0pt;font-family:"Calibri",sans-serif;
+mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:
+minor-latin;mso-ansi-language:UK'>67. Підтвердьте свою особу (на цьому екрані попередньо заповнено вашу інформацію)<o:p></o:p></span></span></pre><pre><span
+class=y2iqfc><span lang=UK style='font-size:12.0pt;font-family:"Calibri",sans-serif;
+mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:
+minor-latin;mso-ansi-language:UK'><o:p>&nbsp;</o:p></span></span></pre><pre><span
+class=y2iqfc><span lang=UK style='font-size:12.0pt;font-family:"Calibri",sans-serif;
+mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:
+minor-latin;mso-ansi-language:UK'>68. Виберіть найближчий візовий центр, він зазначає, що якщо у вас є біометричні дані, вам не потрібно відвідувати візовий центр, але ви не можете продовжувати, не вибравши його, тому просто виберіть найближчий, навіть якщо вам не потрібно відвідувати<o:p></o:p></span></span></pre><pre><span
+class=y2iqfc><span lang=UK style='font-size:12.0pt;font-family:"Calibri",sans-serif;
+mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:
+minor-latin;mso-ansi-language:UK'><o:p>&nbsp;</o:p></span></span></pre><pre><span
+class=y2iqfc><span lang=UK style='font-size:12.0pt;font-family:"Calibri",sans-serif;
+mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:
+minor-latin;mso-ansi-language:UK'>69. Виберіть, як ви хочете продовжити: цифрове завантаження або забронюйте зустріч у <span
+class=SpellE>Visa</span> центрі<o:p></o:p></span></span></pre><pre><span
+class=y2iqfc><sup><span lang=UK style='font-size:12.0pt;font-family:"Calibri",sans-serif;
+mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:
+minor-latin;mso-ansi-language:UK'><o:p>&nbsp;</o:p></span></sup></span></pre><pre><span
+class=y2iqfc><span lang=UK style='font-size:12.0pt;font-family:"Calibri",sans-serif;
+mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:
+minor-latin;mso-ansi-language:UK'>70. Далі буде екран перетягування/завантаження для завантаження всіх супровідних документів, знову ж таки, вони <b
+style='mso-bidi-font-weight:normal'>ПОВИННІ БУТИ У форматі PDF</b>, інший формат не буде прийнято. Завантажте всі документи, перш ніж натиснути кнопку «Надіслати». Після натискання кнопки «Надіслати» ви не зможете повернутися назад і додати те, що ви забули. Тому, будь ласка, переконайтеся, <b
+style='mso-bidi-font-weight:normal'>що ВСЕ завантажено</b>, перш ніж натиснути «Надіслати».<o:p></o:p></span></span></pre><pre><span
+class=y2iqfc><span lang=UK style='font-size:12.0pt;font-family:"Calibri",sans-serif;
+mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:
+minor-latin;mso-ansi-language:UK'><o:p>&nbsp;</o:p></span></span></pre><pre><span
+class=y2iqfc><span lang=UK style='font-size:12.0pt;font-family:"Calibri",sans-serif;
+mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:
+minor-latin;mso-ansi-language:UK'>71. Радимо переконатися, що всі завантажені документи написані англійською мовою, а всі перекладені документи мають бути засвідчені. Чесно кажучи, я думаю, що це копія/вставка зі звичайної візової інструкції, і в ній немає визнання терміновості/мовного бар’єру та можливості доступу до засобів перекладу. Багато з них завантажили лише українською мовою. Варто зазначити, що у формі є безкоштовне текстове поле з проханням пояснити, чому ви не можете надати будь-які ключові документи. Тут я зауважив, що листи від батьків про згоду/комунальні платежі та свідоцтво про народження були українською лише через вищесказане.<o:p></o:p></span></span></pre><pre><span
+class=y2iqfc><span lang=UK style='font-size:12.0pt;font-family:"Calibri",sans-serif;
+mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:
+minor-latin;mso-ansi-language:UK'><o:p>&nbsp;</o:p></span></span></pre><pre><span
+class=y2iqfc><span lang=UK style='font-size:12.0pt;font-family:"Calibri",sans-serif;
+mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:
+minor-latin;mso-ansi-language:UK'><o:p>&nbsp;</o:p></span></span></pre><pre><span
+class=y2iqfc><b style='mso-bidi-font-weight:normal'><span lang=UK
+style='font-size:12.0pt;font-family:"Calibri",sans-serif;mso-ascii-theme-font:
+minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:minor-latin;
+mso-ansi-language:UK'>ЗАЯВКА ЗАВЕРШЕНА<o:p></o:p></span></b></span></pre><pre><span
+class=y2iqfc><span lang=UK style='font-size:12.0pt;font-family:"Calibri",sans-serif;
+mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:
+minor-latin;mso-ansi-language:UK'><o:p>&nbsp;</o:p></span></span></pre><pre><span
+class=y2iqfc><span lang=UK style='font-size:12.0pt;font-family:"Calibri",sans-serif;
+mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:
+minor-latin;mso-ansi-language:UK'> <o:p></o:p></span></span></pre><pre><span
+class=y2iqfc><b style='mso-bidi-font-weight:normal'><span lang=UK
+style='font-size:12.0pt;font-family:"Calibri",sans-serif;mso-ascii-theme-font:
+minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:minor-latin;
+mso-ansi-language:UK'><o:p>&nbsp;</o:p></span></b></span></pre><pre><span
+class=y2iqfc><b style='mso-bidi-font-weight:normal'><span lang=UK
+style='font-size:12.0pt;font-family:"Calibri",sans-serif;mso-ascii-theme-font:
+minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:minor-latin;
+mso-ansi-language:UK'>ДОДАТКОВА ІНФОРМАЦІЯ ДЛЯ ДІТЕЙ<o:p></o:p></span></b></span></pre><pre><span
+class=y2iqfc><span lang=UK style='font-size:12.0pt;font-family:"Calibri",sans-serif;
+mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:
+minor-latin;mso-ansi-language:UK'><o:p>&nbsp;</o:p></span></span></pre><pre><span
+class=y2iqfc><span lang=UK style='font-size:12.0pt;font-family:"Calibri",sans-serif;
+mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:
+minor-latin;mso-ansi-language:UK'>Не застосовується до форми дитини: від 51 до 59 включно<o:p></o:p></span></span></pre><pre><span
+class=y2iqfc><span lang=UK style='font-size:12.0pt;font-family:"Calibri",sans-serif;
+mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:
+minor-latin;mso-ansi-language:UK'><o:p>&nbsp;</o:p></span></span></pre><pre><span
+class=y2iqfc><span lang=UK style='font-size:12.0pt;font-family:"Calibri",sans-serif;
+mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:
+minor-latin;mso-ansi-language:UK'>Додатково в дитячої <span class=SpellE>формиі</span>:<o:p></o:p></span></span></pre><pre><span
+class=y2iqfc><span lang=UK style='font-size:12.0pt;font-family:"Calibri",sans-serif;
+mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:
+minor-latin;mso-ansi-language:UK'><o:p>&nbsp;</o:p></span></span></pre><pre><span
+class=y2iqfc><span lang=UK style='font-size:12.0pt;font-family:"Calibri",sans-serif;
+mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:
+minor-latin;mso-ansi-language:UK'>51. Чи будете ви жити з обома батьками у Великобританії?<o:p></o:p></span></span></pre><pre><span
+class=y2iqfc><span lang=UK style='font-size:12.0pt;font-family:"Calibri",sans-serif;
+mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:
+minor-latin;mso-ansi-language:UK'><o:p>&nbsp;</o:p></span></span></pre><pre><span
+class=y2iqfc><span lang=UK style='font-size:12.0pt;font-family:"Calibri",sans-serif;
+mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:
+minor-latin;mso-ansi-language:UK'>52. Якщо ні, чи можете ви надати згоду обох батьків? (Якщо у вас лише один батько, чи можете ви надати їхню згоду?)<o:p></o:p></span></span></pre><pre><span
+class=y2iqfc><span lang=UK style='font-size:12.0pt;font-family:"Calibri",sans-serif;
+mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:
+minor-latin;mso-ansi-language:UK'><o:p>&nbsp;</o:p></span></span></pre><pre><span
+class=y2iqfc><span lang=UK style='font-size:12.0pt;font-family:"Calibri",sans-serif;
+mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:
+minor-latin;mso-ansi-language:UK'>53. Прізвище матері, громадянство, дата народження, номер паспорта (навіть якщо не подорожує з дитиною)<o:p></o:p></span></span></pre><pre><span
+class=y2iqfc><span lang=UK style='font-size:12.0pt;font-family:"Calibri",sans-serif;
+mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:
+minor-latin;mso-ansi-language:UK'><o:p>&nbsp;</o:p></span></span></pre><pre><span
+class=y2iqfc><span lang=UK style='font-size:12.0pt;font-family:"Calibri",sans-serif;
+mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:
+minor-latin;mso-ansi-language:UK'>54. Ім'я батька, національність, дата народження, номер паспорта (навіть якщо не подорожує з дитиною)</span></span><span
+lang=RU style='font-size:12.0pt;font-family:"Calibri",sans-serif;mso-ascii-theme-font:
+minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:minor-latin'><o:p></o:p></span></pre></div>
+
 
 </body>
 
