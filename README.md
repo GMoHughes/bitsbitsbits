@@ -545,12 +545,12 @@ style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;font:7.0pt "
 style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;font:7.0pt "Times New Roman"'>1. Чи є у вас
 дійсний закордонний паспорт України?</span></p>
 
-<h3 style='margin-top:26.25pt;margin-right:0cm;margin-bottom:0cm;margin-left:
+<h5 style='margin-top:26.25pt;margin-right:0cm;margin-bottom:0cm;margin-left:
 0cm;background:white'><span lang=UK style='font-size:11.0pt;color:#202124;
 font-weight:normal'>2. На яку категорію ви претендуєте (</span><span
 lang=EN-US style='font-size:11.0pt;color:#0B0C0C;font-weight:normal'>Ukraine
 Sponsorship Scheme (Homes for Ukraine)</span><span lang=UK style='font-size:
-11.0pt;color:#202124;font-weight:normal'>?</span></h3>
+11.0pt;color:#202124;font-weight:normal'>?</span></h5>
 
 <p class=MsoNormal style='margin-bottom:0cm;line-height:normal;'><span
 style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;font:7.0pt "Times New Roman"'>3. Який у вас
@@ -666,8 +666,7 @@ style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;font:7.0pt "
 номер телефону (чи буде використовуватися за межами Великобританії, у
 Великобританії, чи обидва?)</span></p>
 
-<p style=''><span class=y2iqfc><span lang=UK
-style='font-size:11.0pt;font-family:"Times New Roman",serif;color:#202124'>
+<p style=''><span class=y2iqfc><span lang=UK  style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;font:7.0pt "Times New Roman"''>
 26. Чи можна зв'язатися з вами за цим номером? Виберіть тип, наприклад, дзвінки та SMS/лише SMS/без дзвінків або SMS/лише дзвінки)</span></span></p>
 <p
 style=''><span class=y2iqfc><span lang=UK  style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;font:7.0pt "Times New Roman"'>27. Якщо ви надасте більше однієї електронної пошти або номеру телефону, вас запитають, на який з вами краще зв’язатися</span></span></p><p
@@ -704,12 +703,10 @@ style=''><span class=y2iqfc><span lang=UK  style='mso-bidi-font-family:Calibri;m
 style=''><span class=y2iqfc><span lang=UK  style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;font:7.0pt "Times New Roman"'>58. Чи є якась інша інформація про ваш характер чи поведінку, про яку ми повинні знати?</span></span></p><p
 style=''><span class=y2iqfc><span lang=UK  style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;font:7.0pt "Times New Roman"'>59. Чи працювали ви коли-небудь у: Збройних силах, уряді, розвідувальних службах, охоронних організаціях, включаючи поліцію та приватну охорону, ЗМІ, судовій системі?</span></span></p><p
 style=''><span class=y2iqfc><span lang=UK  style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;font:7.0pt "Times New Roman"'>60. Підтвердьте, що у вас є документи, що підтверджують особу, та «інші» документи, такі як: докази, що ви проживали в Україні до 01.01.2022 (рахунок за комунальні послуги), документ, що посвідчує особу вашого спонсора (також потрібне свідоцтво про народження, якщо ви подаєте заявку для дитини І лист від обох батьків про дозвіл подати заяву на отримання візи – навіть якщо ці батьки подорожують з дитиною)</span></span></p><p
-style=''><span class=y2iqfc><b><span lang=UK
-style='font-size:11.0pt;font-family:"Times New Roman",serif;color:#202124'>а. Докази завантажуються через інший екран в кінці процесу</span></b><br>Зауважте, що це дозволить завантажувати файли лише у форматі <b>PDF (НЕ JPEG)</b></span></span></p><p
-style=''><span class=y2iqfc><span lang=UK style='font-size:
-11.0pt;font-family:"Times New Roman",serif;color:#202124'>61. Підтвердьте, що ви розумієте умови, а саме: у вас будуть умови щодо вашої візи, і якщо ви перебуваєте в Великобританії без дозволу, вас можуть затримати, притягнути до кримінальної відповідальності, оштрафувати, ув’язнити, вилучити та заборонити повертатися, не зможете працювати, орендувати будинок, вимагати пільг, безкоштовний доступ до NHS, не може мати банківський рахунок, і DVLA не дозволить вам керувати автомобілем</span></span></p><p
-style=''><span class=y2iqfc><span lang=UK  style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;font:7.0pt "Times New Roman"'>62. Підтвердьте, хто заповнив форму: заявник старше 18 років/заявник віком до 18 років/батьки чи законні опікуни/інший (при цьому ви погоджуєтесь на відмову від відповідальності, що стосується, наскільки вам відомо, вся інформація правильна, погоджуєтесь з умовами і спосіб використання наданих вами даних. І що ви розумієте, що вас можуть притягнути до відповідальності, якщо ви надали неправдиву інформацію</span></span></p><p
-style=''><span class=y2iqfc><span lang=UK  style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;font:7.0pt "Times New Roman"'>а. Для «інший» вам потрібно буде відповісти, яку здатність ви підтримуєте, наприклад, члена сім’ї/турагента/іншого. При виборі іншого вам буде надано безкоштовне текстове поле, щоб пояснити причину заповнення. Ми відзначили, що це пов’язано з тим, що форми доступні лише англійською мовою, ненадійне з’єднання з Інтернетом в Україні тощо. Він також запитує ваше ім’я, адресу, електронну адресу та контактний номер.</span></span></p><p
+style=''><span class=y2iqfc><b><span lang=UK  style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;font:7.0pt "Times New Roman"'>а. Докази завантажуються через інший екран в кінці процесу</span></b><br>Зауважте, що це дозволить завантажувати файли лише у форматі <b>PDF (НЕ JPEG)</b></span></span></p><p
+style=''><span class=y2iqfc><span lang=UK  style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;font:7.0pt "Times New Roman"'>61. Підтвердьте, що ви розумієте умови, а саме: у вас будуть умови щодо вашої візи, і якщо ви перебуваєте в Великобританії без дозволу, вас можуть затримати, притягнути до кримінальної відповідальності, оштрафувати, ув’язнити, вилучити та заборонити повертатися, не зможете працювати, орендувати будинок, вимагати пільг, безкоштовний доступ до NHS, не може мати банківський рахунок, і DVLA не дозволить вам керувати автомобілем</span></span></p><p
+style=''><span class=y2iqfc><span lang=UK style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;font:7.0pt "Times New Roman"'>62. Підтвердьте, хто заповнив форму: заявник старше 18 років/заявник віком до 18 років/батьки чи законні опікуни/інший (при цьому ви погоджуєтесь на відмову від відповідальності, що стосується, наскільки вам відомо, вся інформація правильна, погоджуєтесь з умовами і спосіб використання наданих вами даних. І що ви розумієте, що вас можуть притягнути до відповідальності, якщо ви надали неправдиву інформацію</span></span></p><p
+style=''><span class=y2iqfc><span lang=UK style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;font:7.0pt "Times New Roman"'>а. Для «інший» вам потрібно буде відповісти, яку здатність ви підтримуєте, наприклад, члена сім’ї/турагента/іншого. При виборі іншого вам буде надано безкоштовне текстове поле, щоб пояснити причину заповнення. Ми відзначили, що це пов’язано з тим, що форми доступні лише англійською мовою, ненадійне з’єднання з Інтернетом в Україні тощо. Він також запитує ваше ім’я, адресу, електронну адресу та контактний номер.</span></span></p><p
 style=''><span class=y2iqfc><b><span lang=UK  style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;font:7.0pt "Times New Roman"'>63. ЗБЕРЕГТИ ТА ПРОДОВЖИТИ – НА ЦЕЙ МОМЕНТ ВИ ВЖЕ НЕ МОЖЕТЕ РЕДАГУВАТИ СВОЮ ВІДПОВІДЬ</span></b></span></p><p
 style=''><span class=y2iqfc><span lang=UK  style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;font:7.0pt "Times New Roman"'>До цього моменту ви можете повернутися «назад» і внести зміни</span></span></p>
 <p style=''><span class=y2iqfc><b><span lang=UK  style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;font:7.0pt "Times New Roman"'>ЕКРАН ПОДАНОЇ ЗАЯВКИ</span></b></span></p><p
