@@ -576,20 +576,12 @@ lang=UK style='font-size:12.0pt;mso-fareast-font-family:"Times New Roman";
 mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-ansi-language:
 UK;mso-fareast-language:RU'>1. Чи є у вас дійсний закордонний паспорт України?<o:p></o:p></span></p>
 
-<h3 style='margin-top:26.25pt;margin-right:0cm;margin-bottom:0cm;margin-left:
-0cm'><span lang=UK style='font-size:12.0pt;font-family:"Calibri",sans-serif;
-mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:
-minor-latin;mso-ansi-language:UK;font-weight:normal;mso-bidi-font-weight:bold'>2.
-На яку категорію ви претендуєте (</span><span lang=EN-US style='font-size:12.0pt;
-font-family:"Calibri",sans-serif;mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:
-minor-latin;mso-bidi-theme-font:minor-latin;mso-ansi-language:EN-US;font-weight:
-normal;mso-bidi-font-weight:bold'>Ukraine Sponsorship Scheme (Homes for
-Ukraine)</span><span lang=UK style='font-size:12.0pt;font-family:"Calibri",sans-serif;
-mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:
-minor-latin;mso-ansi-language:UK;font-weight:normal;mso-bidi-font-weight:bold'>?</span><span
-lang=EN-US style='font-size:12.0pt;font-family:"Calibri",sans-serif;mso-ascii-theme-font:
-minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:minor-latin;
-mso-ansi-language:EN-US;font-weight:normal;mso-bidi-font-weight:bold'><o:p></o:p></span></h3>
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
+lang=UK style='font-size:12.0pt;mso-fareast-font-family:"Times New Roman";
+mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-ansi-language:
+UK;mso-fareast-language:RU'>2.
+На яку категорію ви претендуєте (Ukraine Sponsorship Scheme (Homes for
+Ukraine)</p>
 
 <p class=MsoNormal style='margin-bottom:0cm;line-height:normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
 lang=UK style='font-size:12.0pt;mso-fareast-font-family:"Times New Roman";
