@@ -581,7 +581,7 @@ lang=UK style='font-size:12.0pt;mso-fareast-font-family:"Times New Roman";
 mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-ansi-language:
 UK;mso-fareast-language:RU'>2.
 На яку категорію ви претендуєте (Ukraine Sponsorship Scheme (Homes for
-Ukraine)</p>
+  Ukraine))</span></p>
 
 <p class=MsoNormal style='margin-bottom:0cm;line-height:normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
 lang=UK style='font-size:12.0pt;mso-fareast-font-family:"Times New Roman";
