@@ -733,256 +733,256 @@ lang=UK style='font-family:"Times New Roman",serif;color:#202124'>25. Який �
 номер телефону (чи буде використовуватися за межами Великобританії, у
 Великобританії, чи обидва?)</span></p>
 
-<pre style='background:#F8F9FA'><span class=y2iqfc><span lang=UK
-style='font-size:11.0pt;font-family:"Times New Roman",serif;color:#202124'>26. Чи можна зв'язатися з вами за цим номером? Виберіть тип, наприклад, дзвінки та SMS/лише SMS/без дзвінків або SMS/лише дзвінки)</span></span></pre><pre
+<p style='background:#F8F9FA'><span class=y2iqfc><span lang=UK
+style='font-size:11.0pt;font-family:"Times New Roman",serif;color:#202124'>26. Чи можна зв'язатися з вами за цим номером? Виберіть тип, наприклад, дзвінки та SMS/лише SMS/без дзвінків або SMS/лише дзвінки)</span></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
-11.0pt;font-family:"Times New Roman",serif;color:#202124'>&nbsp;</span></span></pre><pre
+11.0pt;font-family:"Times New Roman",serif;color:#202124'>&nbsp;</span></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
-11.0pt;font-family:"Times New Roman",serif;color:#202124'>27. Якщо ви надасте більше однієї електронної пошти або номеру телефону, вас запитають, на який з вами краще зв’язатися</span></span></pre><pre
+11.0pt;font-family:"Times New Roman",serif;color:#202124'>27. Якщо ви надасте більше однієї електронної пошти або номеру телефону, вас запитають, на який з вами краще зв’язатися</span></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
-11.0pt;font-family:"Times New Roman",serif;color:#202124'>&nbsp;</span></span></pre><pre
+11.0pt;font-family:"Times New Roman",serif;color:#202124'>&nbsp;</span></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
-11.0pt;font-family:"Times New Roman",serif;color:#202124'>28. Яку адресу електронної пошти ми маємо використовувати, щоб повідомляти вам про: будь-які питання, які ми маємо / рішення / після того, як ви були схвалені та поки ви перебуваєте у Великобританії</span></span></pre><pre
+11.0pt;font-family:"Times New Roman",serif;color:#202124'>28. Яку адресу електронної пошти ми маємо використовувати, щоб повідомляти вам про: будь-які питання, які ми маємо / рішення / після того, як ви були схвалені та поки ви перебуваєте у Великобританії</span></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
-11.0pt;font-family:"Times New Roman",serif;color:#202124'>&nbsp;</span></span></pre><pre
+11.0pt;font-family:"Times New Roman",serif;color:#202124'>&nbsp;</span></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
-11.0pt;font-family:"Times New Roman",serif;color:#202124'>29. Яке Ваше  ім'я та прізвище (включаючи по батькові)?</span></span></pre><pre
+11.0pt;font-family:"Times New Roman",serif;color:#202124'>29. Яке Ваше  ім'я та прізвище (включаючи по батькові)?</span></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
-11.0pt;font-family:"Times New Roman",serif;color:#202124'>&nbsp;</span></span></pre><pre
+11.0pt;font-family:"Times New Roman",serif;color:#202124'>&nbsp;</span></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
-11.0pt;font-family:"Times New Roman",serif;color:#202124'>30. Ви коли-небудь були відомі під якимось іншим ім'ям (введіть)?</span></span></pre><pre
+11.0pt;font-family:"Times New Roman",serif;color:#202124'>30. Ви коли-небудь були відомі під якимось іншим ім'ям (введіть)?</span></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
-11.0pt;font-family:"Times New Roman",serif;color:#202124'>&nbsp;</span></span></pre><pre
+11.0pt;font-family:"Times New Roman",serif;color:#202124'>&nbsp;</span></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
-11.0pt;font-family:"Times New Roman",serif;color:#202124'>31. Яка стать у вас в паспорті?</span></span></pre><pre
+11.0pt;font-family:"Times New Roman",serif;color:#202124'>31. Яка стать у вас в паспорті?</span></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
-11.0pt;font-family:"Times New Roman",serif;color:#202124'>&nbsp;</span></span></pre><pre
+11.0pt;font-family:"Times New Roman",serif;color:#202124'>&nbsp;</span></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
-11.0pt;font-family:"Times New Roman",serif;color:#202124'>32. Який у вас статус стосунків (одружений/неодружений/вдова/розлучений тощо) це навіть запитується для дитини</span></span></pre><pre
+11.0pt;font-family:"Times New Roman",serif;color:#202124'>32. Який у вас статус стосунків (одружений/неодружений/вдова/розлучений тощо) це навіть запитується для дитини</span></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
-11.0pt;font-family:"Times New Roman",serif;color:#202124'>&nbsp;</span></span></pre><pre
+11.0pt;font-family:"Times New Roman",serif;color:#202124'>&nbsp;</span></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
-11.0pt;font-family:"Times New Roman",serif;color:#202124'>33. Адреса (використовуйте англійський алфавіт, поштовий індекс, місто/село/район/ вулиця/номр будинку/квартира) </span></span></pre><pre
+11.0pt;font-family:"Times New Roman",serif;color:#202124'>33. Адреса (використовуйте англійський алфавіт, поштовий індекс, місто/село/район/ вулиця/номр будинку/квартира) </span></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
-11.0pt;font-family:"Times New Roman",serif;color:#202124'>&nbsp;</span></span></pre><pre
+11.0pt;font-family:"Times New Roman",serif;color:#202124'>&nbsp;</span></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
-11.0pt;font-family:"Times New Roman",serif;color:#202124'>34. У вас є паспорт? (Це має бути закордонний паспорт. НЕ вказуйте дані внутрішнього паспорта.)</span></span></pre><pre
+11.0pt;font-family:"Times New Roman",serif;color:#202124'>34. У вас є паспорт? (Це має бути закордонний паспорт. НЕ вказуйте дані внутрішнього паспорта.)</span></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
-11.0pt;font-family:"Times New Roman",serif;color:#202124'>&nbsp;</span></span></pre><pre
+11.0pt;font-family:"Times New Roman",serif;color:#202124'>&nbsp;</span></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
-11.0pt;font-family:"Times New Roman",serif;color:#202124'>35. Номер паспорта</span></span></pre><pre
+11.0pt;font-family:"Times New Roman",serif;color:#202124'>35. Номер паспорта</span></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
-11.0pt;font-family:"Times New Roman",serif;color:#202124'>&nbsp;</span></span></pre><pre
+11.0pt;font-family:"Times New Roman",serif;color:#202124'>&nbsp;</span></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
-11.0pt;font-family:"Times New Roman",serif;color:#202124'>36. Орган, який видав паспорт (4 цифри в закордонному паспорті) </span></span></pre><pre
+11.0pt;font-family:"Times New Roman",serif;color:#202124'>36. Орган, який видав паспорт (4 цифри в закордонному паспорті) </span></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
-11.0pt;font-family:"Times New Roman",serif;color:#202124'>&nbsp;</span></span></pre><pre
+11.0pt;font-family:"Times New Roman",serif;color:#202124'>&nbsp;</span></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
-11.0pt;font-family:"Times New Roman",serif;color:#202124'>37. Дані про дату  видачі та дата закінчення дії паспорта</span></span></pre><pre
+11.0pt;font-family:"Times New Roman",serif;color:#202124'>37. Дані про дату  видачі та дата закінчення дії паспорта</span></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
-11.0pt;font-family:"Times New Roman",serif;color:#202124'>&nbsp;</span></span></pre><pre
+11.0pt;font-family:"Times New Roman",serif;color:#202124'>&nbsp;</span></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
-11.0pt;font-family:"Times New Roman",serif;color:#202124'>38. Країна національності</span></span></pre><pre
+11.0pt;font-family:"Times New Roman",serif;color:#202124'>38. Країна національності</span></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
-11.0pt;font-family:"Times New Roman",serif;color:#202124'>&nbsp;</span></span></pre><pre
+11.0pt;font-family:"Times New Roman",serif;color:#202124'>&nbsp;</span></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
-11.0pt;font-family:"Times New Roman",serif;color:#202124'>39. Країна народження</span></span></pre><pre
+11.0pt;font-family:"Times New Roman",serif;color:#202124'>39. Країна народження</span></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
-11.0pt;font-family:"Times New Roman",serif;color:#202124'>&nbsp;</span></span></pre><pre
+11.0pt;font-family:"Times New Roman",serif;color:#202124'>&nbsp;</span></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
-11.0pt;font-family:"Times New Roman",serif;color:#202124'>40. Місце народження</span></span></pre><pre
+11.0pt;font-family:"Times New Roman",serif;color:#202124'>40. Місце народження</span></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
-11.0pt;font-family:"Times New Roman",serif;color:#202124'>&nbsp;</span></span></pre><pre
+11.0pt;font-family:"Times New Roman",serif;color:#202124'>&nbsp;</span></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
-11.0pt;font-family:"Times New Roman",serif;color:#202124'>41. Дата народження</span></span></pre><pre
+11.0pt;font-family:"Times New Roman",serif;color:#202124'>41. Дата народження</span></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
-11.0pt;font-family:"Times New Roman",serif;color:#202124'>&nbsp;</span></span></pre><pre
+11.0pt;font-family:"Times New Roman",serif;color:#202124'>&nbsp;</span></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
-11.0pt;font-family:"Times New Roman",serif;color:#202124'>42. Чи мали  ви іншу національність або громадянство (надайте деталі)?</span></span></pre><pre
+11.0pt;font-family:"Times New Roman",serif;color:#202124'>42. Чи мали  ви іншу національність або громадянство (надайте деталі)?</span></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
-11.0pt;font-family:"Times New Roman",serif;color:#202124'>&nbsp;</span></span></pre><pre
+11.0pt;font-family:"Times New Roman",serif;color:#202124'>&nbsp;</span></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
-11.0pt;font-family:"Times New Roman",serif;color:#202124'>43. Чи є у вас члени сім'ї, які звертаються (подаються на візу) з вами?</span></span></pre><pre
+11.0pt;font-family:"Times New Roman",serif;color:#202124'>43. Чи є у вас члени сім'ї, які звертаються (подаються на візу) з вами?</span></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
-11.0pt;font-family:"Times New Roman",serif;color:#202124'>&nbsp;</span></span></pre><pre
+11.0pt;font-family:"Times New Roman",serif;color:#202124'>&nbsp;</span></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
-11.0pt;font-family:"Times New Roman",serif;color:#202124'>44. Яке їхнє відношення до спонсора (цікаво, чи це помилка і чи має бути стосунки із заявником? Це порожнє текстове поле, тому ви можете пояснити тут) </span></span></pre><pre
+11.0pt;font-family:"Times New Roman",serif;color:#202124'>44. Яке їхнє відношення до спонсора (цікаво, чи це помилка і чи має бути стосунки із заявником? Це порожнє текстове поле, тому ви можете пояснити тут) </span></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
-11.0pt;font-family:"Times New Roman",serif;color:#202124'>&nbsp;</span></span></pre><pre
+11.0pt;font-family:"Times New Roman",serif;color:#202124'>&nbsp;</span></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
-11.0pt;font-family:"Times New Roman",serif;color:#202124'>45. Ім'я особи, яка подорожує з вами</span></span></pre><pre
+11.0pt;font-family:"Times New Roman",serif;color:#202124'>45. Ім'я особи, яка подорожує з вами</span></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
-11.0pt;font-family:"Times New Roman",serif;color:#202124'>&nbsp;</span></span></pre><pre
+11.0pt;font-family:"Times New Roman",serif;color:#202124'>&nbsp;</span></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
-11.0pt;font-family:"Times New Roman",serif;color:#202124'>46. ​​Прізвище особи, яка подорожує з вами</span></span></pre><pre
+11.0pt;font-family:"Times New Roman",serif;color:#202124'>46. ​​Прізвище особи, яка подорожує з вами</span></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
-11.0pt;font-family:"Times New Roman",serif;color:#202124'>&nbsp;</span></span></pre><pre
+11.0pt;font-family:"Times New Roman",serif;color:#202124'>&nbsp;</span></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
-11.0pt;font-family:"Times New Roman",serif;color:#202124'>47. Дата народження особи, яка подорожує з вами</span></span></pre><pre
+11.0pt;font-family:"Times New Roman",serif;color:#202124'>47. Дата народження особи, яка подорожує з вами</span></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
-11.0pt;font-family:"Times New Roman",serif;color:#202124'>&nbsp;</span></span></pre><pre
+11.0pt;font-family:"Times New Roman",serif;color:#202124'>&nbsp;</span></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
-11.0pt;font-family:"Times New Roman",serif;color:#202124'>48. Вони подорожують з вами до Великобританії?</span></span></pre><pre
+11.0pt;font-family:"Times New Roman",serif;color:#202124'>48. Вони подорожують з вами до Великобританії?</span></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
-11.0pt;font-family:"Times New Roman",serif;color:#202124'>&nbsp;</span></span></pre><pre
+11.0pt;font-family:"Times New Roman",serif;color:#202124'>&nbsp;</span></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
-11.0pt;font-family:"Times New Roman",serif;color:#202124'>49. Якої вони національності?</span></span></pre><pre
+11.0pt;font-family:"Times New Roman",serif;color:#202124'>49. Якої вони національності?</span></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
-11.0pt;font-family:"Times New Roman",serif;color:#202124'>&nbsp;</span></span></pre><pre
+11.0pt;font-family:"Times New Roman",serif;color:#202124'>&nbsp;</span></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
-11.0pt;font-family:"Times New Roman",serif;color:#202124'>50. Який у них номер паспорта?</span></span></pre><pre
+11.0pt;font-family:"Times New Roman",serif;color:#202124'>50. Який у них номер паспорта?</span></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
-11.0pt;font-family:"Times New Roman",serif;color:#202124'>&nbsp;</span></span></pre><pre
+11.0pt;font-family:"Times New Roman",serif;color:#202124'>&nbsp;</span></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
-11.0pt;font-family:"Times New Roman",serif;color:#202124'>51. Чи є у вас інші члени сім'ї, яких ви хочете додати (повторіть вище кроки 42-48)?</span></span></pre><pre
+11.0pt;font-family:"Times New Roman",serif;color:#202124'>51. Чи є у вас інші члени сім'ї, яких ви хочете додати (повторіть вище кроки 42-48)?</span></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
-11.0pt;font-family:"Times New Roman",serif;color:#202124'>&nbsp;</span></span></pre><pre
+11.0pt;font-family:"Times New Roman",serif;color:#202124'>&nbsp;</span></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
-11.0pt;font-family:"Times New Roman",serif;color:#202124'>52. Дата, коли ви плануєте прибути до Великобританії (якщо ви не знаєте, позначте дату цілі) – ви будете мати право в’їзду на протязі 90 днів з зазначеної дати </span></span></pre><pre
+11.0pt;font-family:"Times New Roman",serif;color:#202124'>52. Дата, коли ви плануєте прибути до Великобританії (якщо ви не знаєте, позначте дату цілі) – ви будете мати право в’їзду на протязі 90 днів з зазначеної дати </span></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
-11.0pt;font-family:"Times New Roman",serif;color:#202124'>&nbsp;</span></span></pre><pre
+11.0pt;font-family:"Times New Roman",serif;color:#202124'>&nbsp;</span></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
-11.0pt;font-family:"Times New Roman",serif;color:#202124'>53. Підтвердьте, чи коли-небудь вам відмовляли у візі, відмовляли у в'їзді на кордоні, відмовляли в притулку, депортували тощо.</span></span></pre><pre
+11.0pt;font-family:"Times New Roman",serif;color:#202124'>53. Підтвердьте, чи коли-небудь вам відмовляли у візі, відмовляли у в'їзді на кордоні, відмовляли в притулку, депортували тощо.</span></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
-11.0pt;font-family:"Times New Roman",serif;color:#202124'>&nbsp;</span></span></pre><pre
+11.0pt;font-family:"Times New Roman",serif;color:#202124'>&nbsp;</span></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
-11.0pt;font-family:"Times New Roman",serif;color:#202124'>54. Підтвердьте, що ви не: нелегально в’їхали до Великобританії, перебували у Великобританії після закінчення терміну дії візи, порушили умови, тобто працювали у Великобританії без дозволу тощо.</span></span></pre><pre
+11.0pt;font-family:"Times New Roman",serif;color:#202124'>54. Підтвердьте, що ви не: нелегально в’їхали до Великобританії, перебували у Великобританії після закінчення терміну дії візи, порушили умови, тобто працювали у Великобританії без дозволу тощо.</span></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
-11.0pt;font-family:"Times New Roman",serif;color:#202124'>&nbsp;</span></span></pre><pre
+11.0pt;font-family:"Times New Roman",serif;color:#202124'>&nbsp;</span></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
-11.0pt;font-family:"Times New Roman",serif;color:#202124'>55. Перевірка для (галочка якщо): засудження до кримінальної відповідальності, покарання за водіння/правопорушення, арешт або звинувачення в очікуванні суду, попередження, попередження чи догана, рішення цивільного суду проти вас тощо</span></span></pre><pre
+11.0pt;font-family:"Times New Roman",serif;color:#202124'>55. Перевірка для (галочка якщо): засудження до кримінальної відповідальності, покарання за водіння/правопорушення, арешт або звинувачення в очікуванні суду, попередження, попередження чи догана, рішення цивільного суду проти вас тощо</span></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
-11.0pt;font-family:"Times New Roman",serif;color:#202124'>&nbsp;</span></span></pre><pre
+11.0pt;font-family:"Times New Roman",serif;color:#202124'>&nbsp;</span></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
-11.0pt;font-family:"Times New Roman",serif;color:#202124'>56. Чи займалися ви коли-небудь оплачуваною чи неоплачуваною діяльністю від імені уряду, який не є британським урядом, який, як відомо, є небезпечним для національної безпеки Великобританії?</span></span></pre><pre
+11.0pt;font-family:"Times New Roman",serif;color:#202124'>56. Чи займалися ви коли-небудь оплачуваною чи неоплачуваною діяльністю від імені уряду, який не є британським урядом, який, як відомо, є небезпечним для національної безпеки Великобританії?</span></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
-11.0pt;font-family:"Times New Roman",serif;color:#202124'>&nbsp;</span></span></pre><pre
+11.0pt;font-family:"Times New Roman",serif;color:#202124'>&nbsp;</span></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
-11.0pt;font-family:"Times New Roman",serif;color:#202124'>57. Чи займалися ви коли-небудь іншими видами діяльності, які можуть означати, що ви не є людиною з хорошим характером?</span></span></pre><pre
+11.0pt;font-family:"Times New Roman",serif;color:#202124'>57. Чи займалися ви коли-небудь іншими видами діяльності, які можуть означати, що ви не є людиною з хорошим характером?</span></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
-11.0pt;font-family:"Times New Roman",serif;color:#202124'>&nbsp;</span></span></pre><pre
+11.0pt;font-family:"Times New Roman",serif;color:#202124'>&nbsp;</span></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
-11.0pt;font-family:"Times New Roman",serif;color:#202124'>58. Чи є якась інша інформація про ваш характер чи поведінку, про яку ми повинні знати?</span></span></pre><pre
+11.0pt;font-family:"Times New Roman",serif;color:#202124'>58. Чи є якась інша інформація про ваш характер чи поведінку, про яку ми повинні знати?</span></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
-11.0pt;font-family:"Times New Roman",serif;color:#202124'>&nbsp;</span></span></pre><pre
+11.0pt;font-family:"Times New Roman",serif;color:#202124'>&nbsp;</span></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
-11.0pt;font-family:"Times New Roman",serif;color:#202124'>59. Чи працювали ви коли-небудь у: Збройних силах, уряді, розвідувальних службах, охоронних організаціях, включаючи поліцію та приватну охорону, ЗМІ, судовій системі?</span></span></pre><pre
+11.0pt;font-family:"Times New Roman",serif;color:#202124'>59. Чи працювали ви коли-небудь у: Збройних силах, уряді, розвідувальних службах, охоронних організаціях, включаючи поліцію та приватну охорону, ЗМІ, судовій системі?</span></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
-11.0pt;font-family:"Times New Roman",serif;color:#202124'>&nbsp;</span></span></pre><pre
+11.0pt;font-family:"Times New Roman",serif;color:#202124'>&nbsp;</span></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
-11.0pt;font-family:"Times New Roman",serif;color:#202124'>60. Підтвердьте, що у вас є документи, що підтверджують особу, та «інші» документи, такі як: докази, що ви проживали в Україні до 01.01.2022 (рахунок за комунальні послуги), документ, що посвідчує особу вашого спонсора (також потрібне свідоцтво про народження, якщо ви подаєте заявку для дитини І лист від обох батьків про дозвіл подати заяву на отримання візи – навіть якщо ці батьки подорожують з дитиною)</span></span></pre><pre
+11.0pt;font-family:"Times New Roman",serif;color:#202124'>60. Підтвердьте, що у вас є документи, що підтверджують особу, та «інші» документи, такі як: докази, що ви проживали в Україні до 01.01.2022 (рахунок за комунальні послуги), документ, що посвідчує особу вашого спонсора (також потрібне свідоцтво про народження, якщо ви подаєте заявку для дитини І лист від обох батьків про дозвіл подати заяву на отримання візи – навіть якщо ці батьки подорожують з дитиною)</span></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
-11.0pt;font-family:"Times New Roman",serif;color:#202124'>&nbsp;</span></span></pre><pre
+11.0pt;font-family:"Times New Roman",serif;color:#202124'>&nbsp;</span></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><b><span lang=UK
-style='font-size:11.0pt;font-family:"Times New Roman",serif;color:#202124'>а. Докази завантажуються через інший екран в кінці процесу</span></b></span></pre><pre
+style='font-size:11.0pt;font-family:"Times New Roman",serif;color:#202124'>а. Докази завантажуються через інший екран в кінці процесу</span></b></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
-11.0pt;font-family:"Times New Roman",serif;color:#202124'>&nbsp;</span></span></pre><pre
+11.0pt;font-family:"Times New Roman",serif;color:#202124'>&nbsp;</span></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
-11.0pt;font-family:"Times New Roman",serif;color:#202124'>Зауважте, що це дозволить завантажувати файли лише у форматі <b>PDF (НЕ JPEG)</b></span></span></pre><pre
+11.0pt;font-family:"Times New Roman",serif;color:#202124'>Зауважте, що це дозволить завантажувати файли лише у форматі <b>PDF (НЕ JPEG)</b></span></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
-11.0pt;font-family:"Times New Roman",serif;color:#202124'>&nbsp;</span></span></pre><pre
+11.0pt;font-family:"Times New Roman",serif;color:#202124'>&nbsp;</span></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
-11.0pt;font-family:"Times New Roman",serif;color:#202124'>61. Підтвердьте, що ви розумієте умови, а саме: у вас будуть умови щодо вашої візи, і якщо ви перебуваєте в Великобританії без дозволу, вас можуть затримати, притягнути до кримінальної відповідальності, оштрафувати, ув’язнити, вилучити та заборонити повертатися, не зможете працювати, орендувати будинок, вимагати пільг, безкоштовний доступ до NHS, не може мати банківський рахунок, і DVLA не дозволить вам керувати автомобілем</span></span></pre><pre
+11.0pt;font-family:"Times New Roman",serif;color:#202124'>61. Підтвердьте, що ви розумієте умови, а саме: у вас будуть умови щодо вашої візи, і якщо ви перебуваєте в Великобританії без дозволу, вас можуть затримати, притягнути до кримінальної відповідальності, оштрафувати, ув’язнити, вилучити та заборонити повертатися, не зможете працювати, орендувати будинок, вимагати пільг, безкоштовний доступ до NHS, не може мати банківський рахунок, і DVLA не дозволить вам керувати автомобілем</span></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
-11.0pt;font-family:"Times New Roman",serif;color:#202124'>&nbsp;</span></span></pre><pre
+11.0pt;font-family:"Times New Roman",serif;color:#202124'>&nbsp;</span></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
-11.0pt;font-family:"Times New Roman",serif;color:#202124'>62. Підтвердьте, хто заповнив форму: заявник старше 18 років/заявник віком до 18 років/батьки чи законні опікуни/інший (при цьому ви погоджуєтесь на відмову від відповідальності, що стосується, наскільки вам відомо, вся інформація правильна, погоджуєтесь з умовами і спосіб використання наданих вами даних. І що ви розумієте, що вас можуть притягнути до відповідальності, якщо ви надали неправдиву інформацію</span></span></pre><pre
+11.0pt;font-family:"Times New Roman",serif;color:#202124'>62. Підтвердьте, хто заповнив форму: заявник старше 18 років/заявник віком до 18 років/батьки чи законні опікуни/інший (при цьому ви погоджуєтесь на відмову від відповідальності, що стосується, наскільки вам відомо, вся інформація правильна, погоджуєтесь з умовами і спосіб використання наданих вами даних. І що ви розумієте, що вас можуть притягнути до відповідальності, якщо ви надали неправдиву інформацію</span></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
-11.0pt;font-family:"Times New Roman",serif;color:#202124'>&nbsp;</span></span></pre><pre
+11.0pt;font-family:"Times New Roman",serif;color:#202124'>&nbsp;</span></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
-11.0pt;font-family:"Times New Roman",serif;color:#202124'>а. Для «інший» вам потрібно буде відповісти, яку здатність ви підтримуєте, наприклад, члена сім’ї/турагента/іншого. При виборі іншого вам буде надано безкоштовне текстове поле, щоб пояснити причину заповнення. Ми відзначили, що це пов’язано з тим, що форми доступні лише англійською мовою, ненадійне з’єднання з Інтернетом в Україні тощо. Він також запитує ваше ім’я, адресу, електронну адресу та контактний номер.</span></span></pre><pre
+11.0pt;font-family:"Times New Roman",serif;color:#202124'>а. Для «інший» вам потрібно буде відповісти, яку здатність ви підтримуєте, наприклад, члена сім’ї/турагента/іншого. При виборі іншого вам буде надано безкоштовне текстове поле, щоб пояснити причину заповнення. Ми відзначили, що це пов’язано з тим, що форми доступні лише англійською мовою, ненадійне з’єднання з Інтернетом в Україні тощо. Він також запитує ваше ім’я, адресу, електронну адресу та контактний номер.</span></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
-11.0pt;font-family:"Times New Roman",serif;color:#202124'>&nbsp;</span></span></pre><pre
+11.0pt;font-family:"Times New Roman",serif;color:#202124'>&nbsp;</span></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><b><span lang=UK
-style='font-size:11.0pt;font-family:"Times New Roman",serif;color:#202124'>63. ЗБЕРЕГТИ ТА ПРОДОВЖИТИ – НА ЦЕЙ МОМЕНТ ВИ ВЖЕ НЕ МОЖЕТЕ РЕДАГУВАТИ СВОЮ ВІДПОВІДЬ</span></b></span></pre><pre
+style='font-size:11.0pt;font-family:"Times New Roman",serif;color:#202124'>63. ЗБЕРЕГТИ ТА ПРОДОВЖИТИ – НА ЦЕЙ МОМЕНТ ВИ ВЖЕ НЕ МОЖЕТЕ РЕДАГУВАТИ СВОЮ ВІДПОВІДЬ</span></b></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
-11.0pt;font-family:"Times New Roman",serif;color:#202124'>До цього моменту ви можете повернутися «назад» і внести зміни</span></span></pre>
+11.0pt;font-family:"Times New Roman",serif;color:#202124'>До цього моменту ви можете повернутися «назад» і внести зміни</span></span></p>
 
 <p class=MsoNormal style='line-height:normal'><span lang=EN-US
 style='font-family:"Times New Roman",serif'>&nbsp;</span></p>
 
-<pre style='background:#F8F9FA'><span class=y2iqfc><b><span lang=UK
-style='font-size:11.0pt;font-family:"Times New Roman",serif;color:#202124'>ЕКРАН ПОДАНОЇ ЗАЯВКИ</span></b></span></pre><pre
+<p style='background:#F8F9FA'><span class=y2iqfc><b><span lang=UK
+style='font-size:11.0pt;font-family:"Times New Roman",serif;color:#202124'>ЕКРАН ПОДАНОЇ ЗАЯВКИ</span></b></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
-11.0pt;font-family:"Times New Roman",serif;color:#202124'>&nbsp;</span></span></pre><pre
+11.0pt;font-family:"Times New Roman",serif;color:#202124'>&nbsp;</span></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
-11.0pt;font-family:"Times New Roman",serif;color:#202124'>&nbsp;</span></span></pre><pre
+11.0pt;font-family:"Times New Roman",serif;color:#202124'>&nbsp;</span></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
-11.0pt;font-family:"Times New Roman",serif;color:#202124'>Підтвердження електронною поштою згенеровано на вашу поштову скриньку</span></span></pre><pre
+11.0pt;font-family:"Times New Roman",serif;color:#202124'>Підтвердження електронною поштою згенеровано на вашу поштову скриньку</span></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
-11.0pt;font-family:"Times New Roman",serif;color:#202124'>&nbsp;</span></span></pre><pre
+11.0pt;font-family:"Times New Roman",serif;color:#202124'>&nbsp;</span></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
-11.0pt;font-family:"Times New Roman",serif;color:#202124'>&nbsp;</span></span></pre><pre
+11.0pt;font-family:"Times New Roman",serif;color:#202124'>&nbsp;</span></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
-11.0pt;font-family:"Times New Roman",serif;color:#202124'>64. Завантажте контрольний список підтверджуючих документів; дає вам завантажити <b>PDF</b></span></span></pre><pre
+11.0pt;font-family:"Times New Roman",serif;color:#202124'>64. Завантажте контрольний список підтверджуючих документів; дає вам завантажити <b>PDF</b></span></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
-11.0pt;font-family:"Times New Roman",serif;color:#202124'>&nbsp;</span></span></pre><pre
+11.0pt;font-family:"Times New Roman",serif;color:#202124'>&nbsp;</span></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
-11.0pt;font-family:"Times New Roman",serif;color:#202124'>65. Домовтеся про надання ваших документів; Перенесе вас на новий портал</span></span></pre><pre
+11.0pt;font-family:"Times New Roman",serif;color:#202124'>65. Домовтеся про надання ваших документів; Перенесе вас на новий портал</span></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
-11.0pt;font-family:"Times New Roman",serif;color:#202124'>&nbsp;</span></span></pre><pre
+11.0pt;font-family:"Times New Roman",serif;color:#202124'>&nbsp;</span></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
-11.0pt;font-family:"Times New Roman",serif;color:#202124'>66. Погодьтеся з новими умовами порталу</span></span></pre><pre
+11.0pt;font-family:"Times New Roman",serif;color:#202124'>66. Погодьтеся з новими умовами порталу</span></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
-11.0pt;font-family:"Times New Roman",serif;color:#202124'>&nbsp;</span></span></pre><pre
+11.0pt;font-family:"Times New Roman",serif;color:#202124'>&nbsp;</span></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
-11.0pt;font-family:"Times New Roman",serif;color:#202124'>67. Підтвердьте свою особу (на цьому екрані попередньо заповнено вашу інформацію)</span></span></pre><pre
+11.0pt;font-family:"Times New Roman",serif;color:#202124'>67. Підтвердьте свою особу (на цьому екрані попередньо заповнено вашу інформацію)</span></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
-11.0pt;font-family:"Times New Roman",serif;color:#202124'>&nbsp;</span></span></pre><pre
+11.0pt;font-family:"Times New Roman",serif;color:#202124'>&nbsp;</span></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
-11.0pt;font-family:"Times New Roman",serif;color:#202124'>68. Виберіть найближчий візовий центр, він зазначає, що якщо у вас є біометричні дані, вам не потрібно відвідувати візовий центр, але ви не можете продовжувати, не вибравши його, тому просто виберіть найближчий, навіть якщо вам не потрібно відвідувати</span></span></pre><pre
+11.0pt;font-family:"Times New Roman",serif;color:#202124'>68. Виберіть найближчий візовий центр, він зазначає, що якщо у вас є біометричні дані, вам не потрібно відвідувати візовий центр, але ви не можете продовжувати, не вибравши його, тому просто виберіть найближчий, навіть якщо вам не потрібно відвідувати</span></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
-11.0pt;font-family:"Times New Roman",serif;color:#202124'>&nbsp;</span></span></pre><pre
+11.0pt;font-family:"Times New Roman",serif;color:#202124'>&nbsp;</span></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
-11.0pt;font-family:"Times New Roman",serif;color:#202124'>69. Виберіть, як ви хочете продовжити: цифрове завантаження або забронюйте зустріч у Visa центрі</span></span></pre><pre
+11.0pt;font-family:"Times New Roman",serif;color:#202124'>69. Виберіть, як ви хочете продовжити: цифрове завантаження або забронюйте зустріч у Visa центрі</span></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
-11.0pt;font-family:"Times New Roman",serif;color:#202124'>&nbsp;</span></span></pre><pre
+11.0pt;font-family:"Times New Roman",serif;color:#202124'>&nbsp;</span></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
-11.0pt;font-family:"Times New Roman",serif;color:#202124'>70. Далі буде екран перетягування/завантаження для завантаження всіх супровідних документів, знову ж таки, вони <b>ПОВИННІ БУТИ У форматі PDF</b>, інший формат не буде прийнято. Завантажте всі документи, перш ніж натиснути кнопку «Надіслати». Після натискання кнопки «Надіслати» ви не зможете повернутися назад і додати те, що ви забули. Тому, будь ласка, переконайтеся, <b>що ВСЕ завантажено</b>, перш ніж натиснути «Надіслати».</span></span></pre><pre
+11.0pt;font-family:"Times New Roman",serif;color:#202124'>70. Далі буде екран перетягування/завантаження для завантаження всіх супровідних документів, знову ж таки, вони <b>ПОВИННІ БУТИ У форматі PDF</b>, інший формат не буде прийнято. Завантажте всі документи, перш ніж натиснути кнопку «Надіслати». Після натискання кнопки «Надіслати» ви не зможете повернутися назад і додати те, що ви забули. Тому, будь ласка, переконайтеся, <b>що ВСЕ завантажено</b>, перш ніж натиснути «Надіслати».</span></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
-11.0pt;font-family:"Times New Roman",serif;color:#202124'>&nbsp;</span></span></pre><pre
+11.0pt;font-family:"Times New Roman",serif;color:#202124'>&nbsp;</span></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
-11.0pt;font-family:"Times New Roman",serif;color:#202124'>71. Радимо переконатися, що всі завантажені документи написані англійською мовою, а всі перекладені документи мають бути засвідчені. Чесно кажучи, я думаю, що це копія/вставка зі звичайної візової інструкції, і в ній немає визнання терміновості/мовного бар’єру та можливості доступу до засобів перекладу. Багато з них завантажили лише українською мовою. Варто зазначити, що у формі є безкоштовне текстове поле з проханням пояснити, чому ви не можете надати будь-які ключові документи. Тут я зауважив, що листи від батьків про згоду/комунальні платежі та свідоцтво про народження були українською лише через вищесказане.</span></span></pre><pre
+11.0pt;font-family:"Times New Roman",serif;color:#202124'>71. Радимо переконатися, що всі завантажені документи написані англійською мовою, а всі перекладені документи мають бути засвідчені. Чесно кажучи, я думаю, що це копія/вставка зі звичайної візової інструкції, і в ній немає визнання терміновості/мовного бар’єру та можливості доступу до засобів перекладу. Багато з них завантажили лише українською мовою. Варто зазначити, що у формі є безкоштовне текстове поле з проханням пояснити, чому ви не можете надати будь-які ключові документи. Тут я зауважив, що листи від батьків про згоду/комунальні платежі та свідоцтво про народження були українською лише через вищесказане.</span></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
-11.0pt;font-family:"Times New Roman",serif;color:#202124'>&nbsp;</span></span></pre><pre
+11.0pt;font-family:"Times New Roman",serif;color:#202124'>&nbsp;</span></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
-11.0pt;font-family:"Times New Roman",serif;color:#202124'> </span></span></pre><pre
+11.0pt;font-family:"Times New Roman",serif;color:#202124'> </span></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
-11.0pt;font-family:"Times New Roman",serif;color:#202124'>&nbsp;</span></span></pre><pre
+11.0pt;font-family:"Times New Roman",serif;color:#202124'>&nbsp;</span></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><b><span lang=UK
-style='font-size:11.0pt;font-family:"Times New Roman",serif;color:#202124'>ЗАЯВКА ЗАВЕРШЕНА</span></b></span></pre><pre
+style='font-size:11.0pt;font-family:"Times New Roman",serif;color:#202124'>ЗАЯВКА ЗАВЕРШЕНА</span></b></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
-11.0pt;font-family:"Times New Roman",serif;color:#202124'>&nbsp;</span></span></pre><pre
+11.0pt;font-family:"Times New Roman",serif;color:#202124'>&nbsp;</span></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
-11.0pt;font-family:"Times New Roman",serif;color:#202124'> </span></span></pre><pre
+11.0pt;font-family:"Times New Roman",serif;color:#202124'> </span></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><b><span lang=UK
-style='font-size:11.0pt;font-family:"Times New Roman",serif;color:#202124'>&nbsp;</span></b></span></pre><pre
+style='font-size:11.0pt;font-family:"Times New Roman",serif;color:#202124'>&nbsp;</span></b></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><b><span lang=UK
-style='font-size:11.0pt;font-family:"Times New Roman",serif;color:#202124'>ДОДАТКОВА ІНФОРМАЦІЯ ДЛЯ ДІТЕЙ</span></b></span></pre><pre
+style='font-size:11.0pt;font-family:"Times New Roman",serif;color:#202124'>ДОДАТКОВА ІНФОРМАЦІЯ ДЛЯ ДІТЕЙ</span></b></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
-11.0pt;font-family:"Times New Roman",serif;color:#202124'>&nbsp;</span></span></pre><pre
+11.0pt;font-family:"Times New Roman",serif;color:#202124'>&nbsp;</span></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
-11.0pt;font-family:"Times New Roman",serif;color:#202124'>Не застосовується до форми дитини: від 51 до 59 включно</span></span></pre><pre
+11.0pt;font-family:"Times New Roman",serif;color:#202124'>Не застосовується до форми дитини: від 51 до 59 включно</span></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
-11.0pt;font-family:"Times New Roman",serif;color:#202124'>&nbsp;</span></span></pre><pre
+11.0pt;font-family:"Times New Roman",serif;color:#202124'>&nbsp;</span></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
-11.0pt;font-family:"Times New Roman",serif;color:#202124'>Додатково в дитячої формиі:</span></span></pre><pre
+11.0pt;font-family:"Times New Roman",serif;color:#202124'>Додатково в дитячої формиі:</span></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
-11.0pt;font-family:"Times New Roman",serif;color:#202124'>&nbsp;</span></span></pre><pre
+11.0pt;font-family:"Times New Roman",serif;color:#202124'>&nbsp;</span></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
-11.0pt;font-family:"Times New Roman",serif;color:#202124'>51. Чи будете ви жити з обома батьками у Великобританії?</span></span></pre><pre
+11.0pt;font-family:"Times New Roman",serif;color:#202124'>51. Чи будете ви жити з обома батьками у Великобританії?</span></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
-11.0pt;font-family:"Times New Roman",serif;color:#202124'>&nbsp;</span></span></pre><pre
+11.0pt;font-family:"Times New Roman",serif;color:#202124'>&nbsp;</span></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
-11.0pt;font-family:"Times New Roman",serif;color:#202124'>52. Якщо ні, чи можете ви надати згоду обох батьків? (Якщо у вас лише один батько, чи можете ви надати їхню згоду?)</span></span></pre><pre
+11.0pt;font-family:"Times New Roman",serif;color:#202124'>52. Якщо ні, чи можете ви надати згоду обох батьків? (Якщо у вас лише один батько, чи можете ви надати їхню згоду?)</span></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
-11.0pt;font-family:"Times New Roman",serif;color:#202124'>&nbsp;</span></span></pre><pre
+11.0pt;font-family:"Times New Roman",serif;color:#202124'>&nbsp;</span></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
-11.0pt;font-family:"Times New Roman",serif;color:#202124'>53. Прізвище матері, громадянство, дата народження, номер паспорта (навіть якщо не подорожує з дитиною)</span></span></pre><pre
+11.0pt;font-family:"Times New Roman",serif;color:#202124'>53. Прізвище матері, громадянство, дата народження, номер паспорта (навіть якщо не подорожує з дитиною)</span></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
-11.0pt;font-family:"Times New Roman",serif;color:#202124'>&nbsp;</span></span></pre><pre
+11.0pt;font-family:"Times New Roman",serif;color:#202124'>&nbsp;</span></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
-11.0pt;font-family:"Times New Roman",serif;color:#202124'>54. Ім'я батька, національність, дата народження, номер паспорта (навіть якщо не подорожує з дитиною)</span></span></pre>
+11.0pt;font-family:"Times New Roman",serif;color:#202124'>54. Ім'я батька, національність, дата народження, номер паспорта (навіть якщо не подорожує з дитиною)</span></span></p>
 
 <p class=MsoNormal style='line-height:normal'><span lang=RU style='font-family:
 "Times New Roman",serif'>&nbsp;</span></p>
