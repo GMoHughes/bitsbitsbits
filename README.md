@@ -640,8 +640,6 @@ lang=UK style='font-family:"Times New Roman",serif;color:#202124'>21. Чи ма�
 ваш спонсор коли-небудь інше громадянство чи національність? (Якщо так, введіть
 деталі)</span></p>
 
-<p class=MsoNormal style='margin-bottom:0cm;line-height:normal;background:#F8F9FA'><span
-lang=UK style='font-family:"Times New Roman",serif;color:#202124'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-bottom:0cm;line-height:normal;background:#F8F9FA'><span
 lang=UK style='font-family:"Times New Roman",serif;color:#202124'>22. Чи будете
@@ -670,7 +668,7 @@ style='font-size:11.0pt;font-family:"Times New Roman",serif;color:#202124'>
 26. Чи можна зв'язатися з вами за цим номером? Виберіть тип, наприклад, дзвінки та SMS/лише SMS/без дзвінків або SMS/лише дзвінки)</span></span></p>
 <p
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
-11.0pt;font-family:"Times New Roman",serif;color:#202124'>27. Якщо ви надасте більше однієї електронної пошти або номеру телефону, вас запитають, на який з вами краще зв’язатися</span></span></p>><p
+11.0pt;font-family:"Times New Roman",serif;color:#202124'>27. Якщо ви надасте більше однієї електронної пошти або номеру телефону, вас запитають, на який з вами краще зв’язатися</span></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
 11.0pt;font-family:"Times New Roman",serif;color:#202124'>28. Яку адресу електронної пошти ми маємо використовувати, щоб повідомляти вам про: будь-які питання, які ми маємо / рішення / після того, як ви були схвалені та поки ви перебуваєте у Великобританії</span></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
@@ -682,7 +680,7 @@ style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
 11.0pt;font-family:"Times New Roman",serif;color:#202124'>32. Який у вас статус стосунків (одружений/неодружений/вдова/розлучений тощо) це навіть запитується для дитини</span></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
-11.0pt;font-family:"Times New Roman",serif;color:#202124'>33. Адреса (використовуйте англійський алфавіт, поштовий індекс, місто/село/район/ вулиця/номр будинку/квартира) </span></span></p>><p
+11.0pt;font-family:"Times New Roman",serif;color:#202124'>33. Адреса (використовуйте англійський алфавіт, поштовий індекс, місто/село/район/ вулиця/номр будинку/квартира) </span></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
 11.0pt;font-family:"Times New Roman",serif;color:#202124'>34. У вас є паспорт? (Це має бути закордонний паспорт. НЕ вказуйте дані внутрішнього паспорта.)</span></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
@@ -738,9 +736,7 @@ style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
 11.0pt;font-family:"Times New Roman",serif;color:#202124'>60. Підтвердьте, що у вас є документи, що підтверджують особу, та «інші» документи, такі як: докази, що ви проживали в Україні до 01.01.2022 (рахунок за комунальні послуги), документ, що посвідчує особу вашого спонсора (також потрібне свідоцтво про народження, якщо ви подаєте заявку для дитини І лист від обох батьків про дозвіл подати заяву на отримання візи – навіть якщо ці батьки подорожують з дитиною)</span></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><b><span lang=UK
-style='font-size:11.0pt;font-family:"Times New Roman",serif;color:#202124'>а. Докази завантажуються через інший екран в кінці процесу</span></b></span></p><p
-style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
-11.0pt;font-family:"Times New Roman",serif;color:#202124'>Зауважте, що це дозволить завантажувати файли лише у форматі <b>PDF (НЕ JPEG)</b></span></span></p><p
+style='font-size:11.0pt;font-family:"Times New Roman",serif;color:#202124'>а. Докази завантажуються через інший екран в кінці процесу</span></b><br>Зауважте, що це дозволить завантажувати файли лише у форматі <b>PDF (НЕ JPEG)</b></span></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
 11.0pt;font-family:"Times New Roman",serif;color:#202124'>61. Підтвердьте, що ви розумієте умови, а саме: у вас будуть умови щодо вашої візи, і якщо ви перебуваєте в Великобританії без дозволу, вас можуть затримати, притягнути до кримінальної відповідальності, оштрафувати, ув’язнити, вилучити та заборонити повертатися, не зможете працювати, орендувати будинок, вимагати пільг, безкоштовний доступ до NHS, не може мати банківський рахунок, і DVLA не дозволить вам керувати автомобілем</span></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
@@ -751,10 +747,6 @@ style='background:#F8F9FA'><span class=y2iqfc><b><span lang=UK
 style='font-size:11.0pt;font-family:"Times New Roman",serif;color:#202124'>63. ЗБЕРЕГТИ ТА ПРОДОВЖИТИ – НА ЦЕЙ МОМЕНТ ВИ ВЖЕ НЕ МОЖЕТЕ РЕДАГУВАТИ СВОЮ ВІДПОВІДЬ</span></b></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
 11.0pt;font-family:"Times New Roman",serif;color:#202124'>До цього моменту ви можете повернутися «назад» і внести зміни</span></span></p>
-
-<p class=MsoNormal style='line-height:normal'><span lang=EN-US
-style='font-family:"Times New Roman",serif'>&nbsp;</span></p>
-
 <p style='background:#F8F9FA'><span class=y2iqfc><b><span lang=UK
 style='font-size:11.0pt;font-family:"Times New Roman",serif;color:#202124'>ЕКРАН ПОДАНОЇ ЗАЯВКИ</span></b></span></p><p
 style='background:#F8F9FA'><span class=y2iqfc><span lang=UK style='font-size:
